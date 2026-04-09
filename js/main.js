@@ -13,6 +13,19 @@ document.addEventListener("DOMContentLoaded", () => {
         alert("Thanks for reaching out! (This is a demo — no data was sent.)");
     });
 
+    // Theme toggle
+    const themeSwitch = document.getElementById("theme-switch");
+    const savedTheme = localStorage.getItem("theme");
+    if (savedTheme) {
+        document.documentElement.setAttribute("data-theme", savedTheme);
+        themeSwitch.checked = savedTheme === "light";
+    }
+    themeSwitch.addEventListener("change", () => {
+        const theme = themeSwitch.checked ? "light" : "dark";
+        document.documentElement.setAttribute("data-theme", theme);
+        localStorage.setItem("theme", theme);
+    });
+
     // Animate cards on scroll
     const cards = document.querySelectorAll(".card");
     const observer = new IntersectionObserver(
