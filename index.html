@@ -3,64 +3,98 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Claude Sandbox</title>
+    <title>Package Tracker — 871172274092</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <header>
         <nav>
-            <div class="logo">Claude Sandbox</div>
+            <div class="logo">Package Tracker</div>
             <ul class="nav-links">
-                <li><a href="#features">Features</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#details">Details</a></li>
+                <li><a href="#timeline">Timeline</a></li>
+                <li><a href="#log">Daily Log</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         <section class="hero">
-            <h1>Welcome to Claude Sandbox</h1>
-            <p>A playground for experimenting with web technologies.</p>
-            <button id="cta-button" class="btn">Get Started</button>
+            <h1 id="package-headline">Tracking #871172274092</h1>
+            <p id="package-subhead">FedEx Priority Overnight · Dothan, AL → Tuscaloosa, AL</p>
+            <div class="hero-actions">
+                <a id="fedex-link"
+                   class="btn"
+                   href="https://www.fedex.com/fedextrack/?trknbr=871172274092"
+                   target="_blank"
+                   rel="noopener">Check Live Status on FedEx</a>
+                <button id="copy-tracking" class="btn btn-secondary" type="button">Copy Tracking #</button>
+            </div>
+            <p class="hero-meta" id="status-banner">Loading status…</p>
         </section>
 
-        <section id="features" class="features">
-            <h2>Features</h2>
-            <div class="card-grid">
-                <div class="card">
-                    <h3>Fast</h3>
-                    <p>Lightweight and optimized for performance.</p>
+        <section id="details" class="details">
+            <h2>Package Details</h2>
+            <div class="detail-grid">
+                <div class="detail-card">
+                    <span class="detail-label">Tracking Number</span>
+                    <span class="detail-value">871172274092</span>
                 </div>
-                <div class="card">
-                    <h3>Simple</h3>
-                    <p>Clean code with no unnecessary dependencies.</p>
+                <div class="detail-card">
+                    <span class="detail-label">Service</span>
+                    <span class="detail-value">FedEx Priority Overnight (One Rate)</span>
                 </div>
-                <div class="card">
-                    <h3>Flexible</h3>
-                    <p>Easy to extend and customize for any use case.</p>
+                <div class="detail-card">
+                    <span class="detail-label">Shipped</span>
+                    <span class="detail-value">April 28, 2026 · 11:26 AM</span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">Scheduled Delivery</span>
+                    <span class="detail-value">April 29, 2026</span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">From</span>
+                    <span class="detail-value">FedEx Office<br>3850 W Main St Ste 404<br>Dothan, AL 36305</span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">To</span>
+                    <span class="detail-value">Nathaniel Alan Thompson<br>3431 Firethorn Drive<br>Tuscaloosa, AL 35405</span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">Package</span>
+                    <span class="detail-value">FedEx Envelope · 0.10 lb</span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">Declared Value</span>
+                    <span class="detail-value">$100.00</span>
                 </div>
             </div>
         </section>
 
-        <section id="about" class="about">
-            <h2>About</h2>
-            <p>This sandbox project is a starting point for learning and experimenting with HTML, CSS, and JavaScript. Fork it, break it, rebuild it.</p>
+        <section id="timeline" class="timeline-section">
+            <h2>Expected Timeline</h2>
+            <p class="section-note">Based on FedEx Priority Overnight from Dothan, AL to Tuscaloosa, AL. Tap each step as you confirm it via the FedEx site.</p>
+            <ol id="timeline" class="timeline"></ol>
         </section>
 
-        <section id="contact" class="contact">
-            <h2>Get in Touch</h2>
-            <form id="contact-form">
-                <input type="text" name="name" placeholder="Your Name" required>
-                <input type="email" name="email" placeholder="Your Email" required>
-                <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
-                <button type="submit" class="btn">Send</button>
+        <section id="log" class="log-section">
+            <h2>Daily Log</h2>
+            <p class="section-note">Add a quick note each day with where the package is. Saved locally in your browser.</p>
+            <form id="log-form" class="log-form">
+                <input type="date" id="log-date" required>
+                <input type="text" id="log-location" placeholder="Location (e.g., Memphis, TN hub)" required>
+                <textarea id="log-note" rows="2" placeholder="Notes (optional)"></textarea>
+                <div class="log-actions">
+                    <button type="submit" class="btn">Add Entry</button>
+                    <button type="button" id="log-clear" class="btn btn-secondary">Clear All</button>
+                </div>
             </form>
+            <ul id="log-entries" class="log-entries"></ul>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2026 Claude Sandbox. Built for learning.</p>
+        <p>Local tracker · Live status comes from <a href="https://www.fedex.com/fedextrack/?trknbr=871172274092" target="_blank" rel="noopener">FedEx</a>.</p>
     </footer>
 
     <script src="js/main.js"></script>
