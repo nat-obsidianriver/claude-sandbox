@@ -3,64 +3,206 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Claude Sandbox</title>
+    <title>The Grey Wolf of Glen Eachach — Alasdair MacBrae</title>
+    <meta name="description" content="The backstory and homebrew campaign setting of Alasdair 'the Grey Wolf' MacBrae, last Laird of Glen Eachach.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <header>
         <nav>
-            <div class="logo">Claude Sandbox</div>
+            <a class="logo" href="#top">Glen&nbsp;Eachach</a>
             <ul class="nav-links">
-                <li><a href="#features">Features</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#story">The Tale</a></li>
+                <li><a href="#man">The Man</a></li>
+                <li><a href="#pact">The Pact</a></li>
+                <li><a href="#world">The Glen</a></li>
+                <li><a href="#campaign">The Campaign</a></li>
             </ul>
         </nav>
     </header>
 
-    <main>
+    <main id="top">
+        <!-- HERO -->
         <section class="hero">
-            <h1>Welcome to Claude Sandbox</h1>
-            <p>A playground for experimenting with web technologies.</p>
-            <button id="cta-button" class="btn">Get Started</button>
+            <div class="hero-portrait">
+                <img src="assets/alasdair-macbrae.png"
+                     alt="Alasdair MacBrae, the Grey Wolf, standing before Dùn Cailleach in his clan plaid.">
+            </div>
+            <div class="hero-text">
+                <p class="eyebrow">An Tighearna mu dheireadh — The Last Laird</p>
+                <h1>Alasdair<br><span class="byname">&ldquo;the Grey Wolf&rdquo;</span><br>MacBrae</h1>
+                <p class="hero-tagline">Eighth Laird of Glen Eachach. Keeper of the bridge of Dùn Cailleach.
+                    The last man alive who still walks the boundary stones and speaks the names of the dead.</p>
+                <a href="#story" class="btn">Read his tale</a>
+            </div>
+            <div class="scroll-cue" aria-hidden="true">▾</div>
         </section>
 
-        <section id="features" class="features">
-            <h2>Features</h2>
-            <div class="card-grid">
-                <div class="card">
-                    <h3>Fast</h3>
-                    <p>Lightweight and optimized for performance.</p>
-                </div>
-                <div class="card">
-                    <h3>Simple</h3>
-                    <p>Clean code with no unnecessary dependencies.</p>
-                </div>
-                <div class="card">
-                    <h3>Flexible</h3>
-                    <p>Easy to extend and customize for any use case.</p>
-                </div>
+        <!-- THE TALE -->
+        <section id="story" class="band reveal">
+            <p class="section-kicker">The Tale</p>
+            <h2>Born in the winter of the Black Frost</h2>
+            <div class="prose">
+                <p class="dropcap">In the shadow of <strong>Dùn Cailleach</strong> — the broken-towered keep that
+                    guards the only bridge across Loch Eachach — Alasdair MacBrae was born to a hard glen and a
+                    long inheritance. He is the eighth Laird of his line to hold the strath, and by the reckoning
+                    of the old folk, the last who will remember it as it was before the roads came.</p>
+                <p>They call him <em>Madadh-allaidh Glas</em> — the Grey Wolf — and the name fits twice over.
+                    Once, for the iron-grey that came early to his beard, after the year the fever took half the
+                    glen and both his sons. And again for the way he hunts a grievance: slow, patient, and never
+                    letting go of a scent. He is broad as a byre door and quiet as a held breath, and the men who
+                    mistake the quiet for softness do it only the once.</p>
             </div>
         </section>
 
-        <section id="about" class="about">
-            <h2>About</h2>
-            <p>This sandbox project is a starting point for learning and experimenting with HTML, CSS, and JavaScript. Fork it, break it, rebuild it.</p>
+        <!-- THE MAN -->
+        <section id="man" class="band alt reveal">
+            <p class="section-kicker">The Man</p>
+            <h2>What he carries</h2>
+            <div class="card-grid">
+                <article class="card">
+                    <h3>The Sett</h3>
+                    <p>His plaid is the sett of the MacBrae — bog-brown, pine-green, and a single thread of
+                        dried-blood red that the clan weavers say marks the families who held the bridge in the
+                        old wars.</p>
+                </article>
+                <article class="card">
+                    <h3>The Brooch</h3>
+                    <p>At his shoulder, a brooch older than the castle: a wolf curled around a standing stone,
+                        cast in a bronze no smith living can name. It has passed Laird to Laird since the first
+                        of the line.</p>
+                </article>
+                <article class="card">
+                    <h3>The Grief</h3>
+                    <p>The fever year took his two sons and left him no heir of his blood. He keeps their names
+                        on the boundary stones, and speaks them first each Samhain so the hills will not
+                        forget them.</p>
+                </article>
+                <article class="card">
+                    <h3>The Patience</h3>
+                    <p>A warlord by inheritance but a herdsman by temper, he would rather wait out an enemy than
+                        meet him. Thirty years of holding a thankless promise have made him very good at
+                        waiting.</p>
+                </article>
+            </div>
         </section>
 
-        <section id="contact" class="contact">
-            <h2>Get in Touch</h2>
-            <form id="contact-form">
-                <input type="text" name="name" placeholder="Your Name" required>
-                <input type="email" name="email" placeholder="Your Email" required>
-                <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
-                <button type="submit" class="btn">Send</button>
-            </form>
+        <!-- THE PACT -->
+        <section id="pact" class="band reveal">
+            <p class="section-kicker">The Burden</p>
+            <h2>The glen pays two rents</h2>
+            <div class="prose">
+                <p>One rent goes to the Crown, in coin and cattle. The other goes to <strong>the Thing Under the
+                    Cailleach</strong> — the old pact, kept since the first MacBrae, that the bridge would stand
+                    and the glen would prosper so long as the Laird walked the boundary stones each Samhain and
+                    spoke the names of the dead aloud, so the hills would not forget them.</p>
+                <p>Alasdair has walked that boundary for thirty years. But the stones are being pulled up now — for
+                    new roads, new walls, and new men with charters and surveyors. And each stone that falls,
+                    something in the high corries grows hungrier. The cattle are thin. The mist comes wrong.</p>
+                <blockquote>
+                    And last Samhain, for the first time in eight generations, a name answered him
+                    <em>back</em>.
+                </blockquote>
+            </div>
+        </section>
+
+        <!-- THE GLEN / WORLD -->
+        <section id="world" class="band alt reveal">
+            <p class="section-kicker">The Glen</p>
+            <h2>A gazetteer of Glen Eachach</h2>
+            <div class="card-grid">
+                <article class="card">
+                    <h3>Dùn Cailleach</h3>
+                    <p>The MacBrae seat: a half-ruined keep on a tidal islet, joined to the road by a single arched
+                        stone bridge. Its lowest vault is older than the clan and is never unsealed.</p>
+                </article>
+                <article class="card">
+                    <h3>Loch Eachach</h3>
+                    <p>The black water the glen is named for. Still as glass on the calmest day, and yet boats go
+                        missing on it. The drowned are said to be owed, not lost.</p>
+                </article>
+                <article class="card">
+                    <h3>The Boundary Stones</h3>
+                    <p>Thirteen standing stones ringing the high pasture. Walk them sunwise and speak the names of
+                        the dead, and the glen keeps faith. Pull one up, and the faith breaks a little.</p>
+                </article>
+                <article class="card">
+                    <h3>The Cailleach's Corrie</h3>
+                    <p>A high, cold hollow where the snow lingers into summer. The old folk leave the first milk
+                        there and do not climb past the cairn. Whatever the pact is with, it keeps to the corrie.
+                        For now.</p>
+                </article>
+                <article class="card">
+                    <h3>The New Road</h3>
+                    <p>Surveyors' pegs march up the glen from the south, charters in hand. Progress, or ruin —
+                        Alasdair has not yet decided which, and the choice may not be his to make.</p>
+                </article>
+                <article class="card">
+                    <h3>The Strangers</h3>
+                    <p>Riders are coming up the glen road. They may be the end of the MacBrae — or the only hands
+                        willing to help hold the boundary one more turn of the year.</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- CAMPAIGN -->
+        <section id="campaign" class="band reveal">
+            <p class="section-kicker">The Campaign</p>
+            <h2>Run it at your table</h2>
+            <div class="prose">
+                <p>Glen Eachach is built as a <strong>system-agnostic</strong> setting — drop it into any ruleset
+                    you like. The bones below are enough to start a session; the lore above is enough to fill a
+                    season.</p>
+            </div>
+            <div class="campaign-grid">
+                <article class="campaign-box">
+                    <h3>The Premise</h3>
+                    <p>The player characters are the <em>strangers riding up the glen</em>. Whatever brought them
+                        north, they arrive the week before Samhain — just as the new road reaches the first
+                        boundary stone, and just as something in the corrie begins to answer back.</p>
+                </article>
+                <article class="campaign-box">
+                    <h3>The Central Question</h3>
+                    <p>Should the old pact be kept, broken, or remade? Every faction in the glen has an answer, and
+                        none of them is wholly right. The campaign is the argument played out in mist, iron,
+                        and blood.</p>
+                </article>
+                <article class="campaign-box">
+                    <h3>Three Opening Hooks</h3>
+                    <ul>
+                        <li><strong>The fallen stone.</strong> A surveyor's crew pulled up a boundary stone and one
+                            of them has gone missing. The Laird wants it found — and the stone put back — before
+                            Samhain.</li>
+                        <li><strong>The answered name.</strong> The name that answered back belonged to someone the
+                            party knows. It wants them to come to the corrie.</li>
+                        <li><strong>The charter.</strong> The road company's factor offers the party good coin to
+                            "persuade" the stubborn old Laird to sign. They are not told what signing costs.</li>
+                    </ul>
+                </article>
+                <article class="campaign-box">
+                    <h3>Alasdair as an NPC</h3>
+                    <p>Patient, watchful, slow to trust and slower to forgive. Treat him as a <em>quest-giver who
+                        is himself the quest</em>: winning his trust is a campaign arc, not a single roll. He will
+                        test the party with small, thankless tasks before he tells them what the glen truly
+                        owes.</p>
+                    <p class="stat-note">Need numbers? Stat him as a veteran/noble warrior of the highest tier your
+                        system offers — formidable in a feud, but his real power is that the glen, the dead, and
+                        the Thing in the corrie all answer to him.</p>
+                </article>
+            </div>
+            <div class="prose closing">
+                <p>This page is a living document. Names, lore, and campaign material will grow here as the glen
+                    does.</p>
+            </div>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2026 Claude Sandbox. Built for learning.</p>
+        <p class="gaelic">&ldquo;Cha dìochuimhnich na cnuic.&rdquo; — The hills do not forget.</p>
+        <p>The chronicle of Glen Eachach &middot; A homebrew setting</p>
     </footer>
 
     <script src="js/main.js"></script>

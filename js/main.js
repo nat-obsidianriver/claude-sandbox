@@ -1,36 +1,23 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const ctaButton = document.getElementById("cta-button");
-    ctaButton.addEventListener("click", () => {
-        document.getElementById("features").scrollIntoView({ behavior: "smooth" });
-    });
+    // Reveal sections as they scroll into view
+    const revealEls = document.querySelectorAll(".reveal");
 
-    const contactForm = document.getElementById("contact-form");
-    contactForm.addEventListener("submit", (e) => {
-        e.preventDefault();
-        const data = Object.fromEntries(new FormData(contactForm));
-        console.log("Form submitted:", data);
-        contactForm.reset();
-        alert("Thanks for reaching out! (This is a demo — no data was sent.)");
-    });
+    if (!("IntersectionObserver" in window)) {
+        revealEls.forEach((el) => el.classList.add("visible"));
+        return;
+    }
 
-    // Animate cards on scroll
-    const cards = document.querySelectorAll(".card");
     const observer = new IntersectionObserver(
-        (entries) => {
+        (entries, obs) => {
             entries.forEach((entry) => {
                 if (entry.isIntersecting) {
-                    entry.target.style.opacity = "1";
-                    entry.target.style.transform = "translateY(0)";
+                    entry.target.classList.add("visible");
+                    obs.unobserve(entry.target);
                 }
             });
         },
-        { threshold: 0.1 }
+        { threshold: 0.12 }
     );
 
-    cards.forEach((card) => {
-        card.style.opacity = "0";
-        card.style.transform = "translateY(20px)";
-        card.style.transition = "opacity 0.4s ease, transform 0.4s ease";
-        observer.observe(card);
-    });
+    revealEls.forEach((el) => observer.observe(el));
 });
