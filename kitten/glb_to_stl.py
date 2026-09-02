@@ -58,23 +58,30 @@ def solidify(mesh, resolution, seal, despeckle, base_trim, smooth):
     origin = vox.transform[:3, 3]
     print(f"  voxel grid      : {occ.shape}, pitch {pitch:.5f}")
 
-    # Close the pinholes speckling the surface so they cannot leak the fill.
+    # Closing alone does not seal this surface: at a fine pitch the gaps reopen
+    # and the flood fill escapes, leaving a shell instead of a solid. Dilate
+    # first, fill, then erode by the same amount - the dilation bridges holes up
+    # to about 2*seal voxels across, and the erosion restores the true surface.
+    # The radius has to scale with resolution, since a finer pitch reopens gaps
+    # that a coarse grid bridged for free.
+    struct = ndimage.generate_binary_structure(3, 1)
     if seal:
-        occ = ndimage.binary_closing(occ, ndimage.generate_binary_structure(3, 1), iterations=seal)
+        occ = ndimage.binary_dilation(occ, struct, iterations=seal)
 
     # The reconstruction is open underneath, where the kitten met the blanket.
-    # Trim into the model to get past the ragged edge, then seal the exposed
-    # cross-section in 2D. Without this the flood fill escapes through the
-    # bottom and leaves a hollow shell rather than a solid.
+    # Trim past the ragged edge and seal the exposed cross-section in 2D so the
+    # fill cannot pour out of the bottom.
     zs = np.where(occ.any(axis=(0, 1)))[0]
     cut = zs.min() + max(int(round(base_trim / pitch)), 1)
     occ[:, :, :cut] = False
     occ[:, :, cut] = ndimage.binary_fill_holes(occ[:, :, cut])
     print(f"  base sealed at  : voxel layer {cut} ({cut - zs.min()} in from the bottom)")
 
-    # Fill the interior: this is what turns a shell into a solid.
     occ = ndimage.binary_fill_holes(occ)
-    print(f"  filled solid    : {occ.sum():,} voxels")
+    print(f"  filled          : {occ.sum():,} voxels")
+    if seal:
+        occ = ndimage.binary_erosion(occ, struct, iterations=seal)
+    print(f"  solid           : {occ.sum():,} voxels")
 
     # Opening erodes then dilates, which deletes structures thinner than the
     # kernel - exactly the whiskers - while leaving the solid body untouched.
@@ -119,7 +126,8 @@ def main():
     ap.add_argument("--height", type=float, default=70.0,
                     help="longest horizontal dimension in mm")
     ap.add_argument("--resolution", type=int, default=320)
-    ap.add_argument("--seal", type=int, default=2, help="closing iterations to shut pinholes")
+    ap.add_argument("--seal", type=int, default=3,
+                    help="dilate/erode radius in voxels used to bridge holes before filling")
     ap.add_argument("--despeckle", type=int, default=1, help="opening iterations to strip whiskers")
     ap.add_argument("--base-trim", type=float, default=0.02,
                     help="slice this much off the bottom, in model units, for a flat base")
@@ -135,11 +143,16 @@ def main():
 
     mesh = solidify(mesh, args.resolution, args.seal, args.despeckle, args.base_trim, args.smooth)
 
-    if args.max_faces and len(mesh.faces) > args.max_faces:
-        reduced = mesh.simplify_quadric_decimation(face_count=args.max_faces)
-        if reduced.is_watertight and reduced.is_winding_consistent:
-            mesh = reduced
-            mesh.fix_normals()
+    if args.max_faces:
+        for target in (args.max_faces, args.max_faces * 2, args.max_faces * 4):
+            if len(mesh.faces) <= target:
+                break
+            reduced = mesh.simplify_quadric_decimation(face_count=target)
+            if reduced.is_watertight and reduced.is_winding_consistent:
+                reduced.fix_normals()
+                mesh = reduced
+                break
+            print(f"  decimation to {target:,} broke the solid, backing off")
 
     mesh.apply_scale(args.height / max(mesh.extents[0], mesh.extents[1]))
     mesh.apply_translation([0, 0, -mesh.bounds[0][2]])
