@@ -128,7 +128,8 @@ def main():
     ap.add_argument("--resolution", type=int, default=320)
     ap.add_argument("--seal", type=int, default=3,
                     help="dilate/erode radius in voxels used to bridge holes before filling")
-    ap.add_argument("--despeckle", type=int, default=1, help="opening iterations to strip whiskers")
+    ap.add_argument("--despeckle", type=int, default=2,
+                    help="opening iterations to strip whiskers")
     ap.add_argument("--base-trim", type=float, default=0.02,
                     help="slice this much off the bottom, in model units, for a flat base")
     ap.add_argument("--smooth", type=float, default=0.8)
@@ -143,16 +144,25 @@ def main():
 
     mesh = solidify(mesh, args.resolution, args.seal, args.despeckle, args.base_trim, args.smooth)
 
-    if args.max_faces:
-        for target in (args.max_faces, args.max_faces * 2, args.max_faces * 4):
-            if len(mesh.faces) <= target:
-                break
-            reduced = mesh.simplify_quadric_decimation(face_count=target)
-            if reduced.is_watertight and reduced.is_winding_consistent:
-                reduced.fix_normals()
-                mesh = reduced
-                break
-            print(f"  decimation to {target:,} broke the solid, backing off")
+    # Decimate with fast_simplification directly. Trimesh's
+    # simplify_quadric_decimation wrapper returns a mesh that fails the
+    # watertight check on this model at every target; calling the simplifier
+    # itself keeps the solid manifold with zero boundary edges.
+    if args.max_faces and len(mesh.faces) > args.max_faces:
+        import fast_simplification
+
+        reduction = 1.0 - args.max_faces / len(mesh.faces)
+        v, f = fast_simplification.simplify(
+            np.asarray(mesh.vertices, dtype=np.float32),
+            np.asarray(mesh.faces, dtype=np.int32),
+            reduction,
+        )
+        reduced = trimesh.Trimesh(vertices=v, faces=f, process=False)
+        if reduced.is_watertight and reduced.is_winding_consistent:
+            reduced.fix_normals()
+            mesh = reduced
+        else:
+            print("  decimation broke the solid, keeping the full mesh")
 
     mesh.apply_scale(args.height / max(mesh.extents[0], mesh.extents[1]))
     mesh.apply_translation([0, 0, -mesh.bounds[0][2]])
