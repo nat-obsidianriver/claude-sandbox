@@ -1,0 +1,54 @@
+# Deal Hunter configuration — the {slots} from the video's prompt live here.
+# Edit this file, commit, push. The next morning's run picks it up.
+
+# Facebook Marketplace location slug: the word after /marketplace/ in the URL
+# when you browse Marketplace in your area (e.g. "austin", "nyc", "112548152092705").
+marketplace_location: austin
+
+# Only consider listings posted in the last N days (Marketplace filter: 1, 7 or 30).
+days_since_listed: 1
+
+# Flag a car when its asking price is at least this far under its reference value
+# (KBB private-party value, or the best equivalent the run could find).
+undervalued_threshold: 0.15
+
+# Ignore placeholder prices ($1, $123...) that sellers use to game the sort order.
+min_price: 1500
+
+# Words that disqualify a listing (checked against title + description).
+exclude_keywords: [salvage, rebuilt, "parts only", "no title", "not running", "trade only"]
+
+# Where the daily digest goes.
+notify_email: nat@obsidianriver.com
+
+# {my car list} and {my max}. One entry per Marketplace search.
+#   query:        what you'd type into the Marketplace search box
+#   make / model: used to sanity-check the listing title and look up values
+#   year_min/max, max_mileage: hard filters
+#   my_max:       the most you'd pay; drafts negotiate toward this, never above it
+searches:
+  - query: Tacoma TRD
+    make: Toyota
+    model: Tacoma
+    year_min: 2012
+    max_mileage: 150000
+    my_max: 25000
+  - query: 4Runner
+    make: Toyota
+    model: 4Runner
+    year_min: 2010
+    max_mileage: 160000
+    my_max: 22000
+  - query: Civic Si
+    make: Honda
+    model: Civic
+    year_min: 2012
+    max_mileage: 120000
+    my_max: 18000
+  - query: Miata NB
+    make: Mazda
+    model: Miata
+    year_min: 1999
+    year_max: 2005
+    max_mileage: 180000
+    my_max: 8000
