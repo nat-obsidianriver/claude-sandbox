@@ -22,7 +22,7 @@ git fetch origin
 git checkout -B claude/deal-hunter-data origin/claude/deal-hunter-data
 git merge --no-edit origin/main || git merge --abort   # pick up config/code merged to main
 cd deal-hunter
-pip install -q -r requirements.txt
+python -m pip install -q -r requirements.txt
 ```
 
 ## 2. Scan Marketplace
