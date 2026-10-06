@@ -85,6 +85,11 @@ This adds seller, description, trim and title status, and re-runs the filters: i
 description reveals salvage/rebuilt etc., the listing drops out automatically. Also
 read the description yourself for red flags the keyword filter can't catch (flood,
 "needs transmission", "mechanic special", out-of-state title, price clearly a typo).
+**Too good to be true:** a car priced 40%+ under value is usually a scam (deposit
+fraud, "I'm deployed, shipping only", wants payment off-platform) or a typo. Don't drop
+it silently: keep it, but begin its draft with `⚠️ LIKELY SCAM:` and the reason, and
+write the message as a verification question (ask to see it in person, ask for the VIN),
+never an offer.
 If the trim from the page changes the value, re-run step 3's `value` command. If a
 listing is obviously not a real deal, record a corrected value with a note explaining why.
 

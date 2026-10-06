@@ -29,9 +29,11 @@ def filter_reason(listing: dict, s: Search, cfg: Config) -> str | None:
     if listing["price"] < cfg.min_price:
         return f"placeholder price ${listing['price']}"
     year = listing.get("year")
-    if year and s.year_min and year < s.year_min:
+    if not year:
+        return "no model year in title (likely parts or accessories)"
+    if s.year_min and year < s.year_min:
         return f"{year} older than {s.year_min}"
-    if year and s.year_max and year > s.year_max:
+    if s.year_max and year > s.year_max:
         return f"{year} newer than {s.year_max}"
     miles = listing.get("mileage")
     if miles and s.max_mileage and miles > s.max_mileage:
