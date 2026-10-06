@@ -155,7 +155,7 @@ def extract_details(payloads: list) -> dict:
 
 def load_cookies(raw: str | None = None) -> list[dict]:
     """Accept either a Cookie-Editor JSON export or a 'name=value; name2=value2' header string."""
-    raw = (raw if raw is not None else os.environ.get("FB_COOKIES", "")).strip()
+    raw = (raw if raw is not None else os.environ.get("FB_COOKIES", "")).strip().strip("'\"")
     if not raw:
         raise LoginRequired("FB_COOKIES is not set. See deal-hunter/README.md.")
     if raw.startswith("["):
