@@ -65,7 +65,8 @@ try {
     # --- 2/3. scan ---
     $scan = (Dh scan) -join "`n"
     $code = $LASTEXITCODE
-    Log ("scan exit={0}: {1}" -f $code, ($scan -replace '\s+', ' ').Substring(0, [Math]::Min(300, $scan.Length)))
+    $flat = $scan -replace '\s+', ' '
+    Log ("scan exit={0}: {1}" -f $code, $flat.Substring(0, [Math]::Min(300, $flat.Length)))
     if ($code -eq 2) {
         $body = "Deal Hunter couldn't scan Marketplace this morning: its browser profile on your PC is no longer logged in to Facebook.`n`nTo fix it, open PowerShell and run:`n`n    powershell -ExecutionPolicy Bypass -File `"$PSCommandPath`" -Setup`n`nLog in to Facebook in the window that opens. Tomorrow's run picks it up."
         Mail 'Deal Hunter: Facebook login needed' $body | Out-Null

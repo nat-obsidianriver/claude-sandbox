@@ -20,12 +20,14 @@ class Store:
         self.path = path
         self.listings: dict[str, dict] = {}
         if path.exists():
-            self.listings = json.loads(path.read_text()).get("listings", {})
+            self.listings = json.loads(path.read_text(encoding="utf-8")).get("listings", {})
 
     def save(self) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
         body = {"updated_at": now(), "listings": self.listings}
-        self.path.write_text(json.dumps(body, indent=1, sort_keys=True) + "\n")
+        # Explicit LF: on Windows the default newline turns every line into a git diff.
+        with open(self.path, "w", encoding="utf-8", newline="\n") as f:
+            f.write(json.dumps(body, indent=1, sort_keys=True) + "\n")
 
     def get(self, listing_id: str) -> dict:
         if listing_id not in self.listings:

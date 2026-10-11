@@ -35,6 +35,6 @@ class Config:
 
 
 def load(path: Path = CONFIG_PATH) -> Config:
-    raw = yaml.safe_load(path.read_text())
+    raw = yaml.safe_load(path.read_text(encoding="utf-8"))
     raw["searches"] = [Search(**s) for s in raw["searches"]]
     return Config(**raw)
