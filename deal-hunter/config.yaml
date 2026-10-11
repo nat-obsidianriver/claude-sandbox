@@ -3,7 +3,7 @@
 
 # Facebook Marketplace location slug: the word after /marketplace/ in the URL
 # when you browse Marketplace in your area (e.g. "austin", "nyc", "112548152092705").
-marketplace_location: austin
+marketplace_location: "112572335421836"  # Tuscaloosa, AL (slug "tuscaloosa" is not recognized; FB falls back to IP location)
 
 # Only consider listings posted in the last N days (Marketplace filter: 1, 7 or 30).
 days_since_listed: 1
