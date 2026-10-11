@@ -24,6 +24,7 @@ class Config:
     marketplace_location: str
     searches: list[Search]
     notify_email: str
+    radius_miles: int | None = None
     days_since_listed: int = 1
     undervalued_threshold: float = 0.15
     min_price: int = 1500

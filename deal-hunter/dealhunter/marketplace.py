@@ -234,6 +234,8 @@ class Marketplace:
             "sortBy": "creation_time_descend",
             "exact": "false",
         }
+        if cfg.radius_miles:
+            params["radius"] = round(cfg.radius_miles * 1.609344)  # Facebook takes km
         url = f"{BASE}/marketplace/{cfg.marketplace_location}/search?{urlencode(params)}"
         return extract_listings(self._capture(url, scrolls=scrolls))
 
