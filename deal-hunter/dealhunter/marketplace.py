@@ -171,6 +171,41 @@ def load_cookies(raw: str | None = None) -> list[dict]:
     return cookies
 
 
+def profile_dir() -> str | None:
+    """DH_PROFILE_DIR: a browser profile that stays logged in to Facebook (local runs).
+
+    Used instead of FB_COOKIES when set. Copied cookies replayed from a datacenter IP get
+    the session killed by Facebook's security checks (2026-10-11), so the local runner
+    keeps its own profile on the owner's home connection instead.
+    """
+    return os.environ.get("DH_PROFILE_DIR") or None
+
+
+def login(timeout_min: int = 10) -> None:
+    """Open a visible browser on the profile so the owner can log in to Facebook once."""
+    from playwright.sync_api import sync_playwright
+
+    path = profile_dir()
+    if not path:
+        raise SystemExit("Set DH_PROFILE_DIR first (the local runner does this for you).")
+    with sync_playwright() as pw:
+        ctx = pw.chromium.launch_persistent_context(
+            path, headless=False, user_agent=UA, viewport={"width": 1280, "height": 900}, locale="en-US"
+        )
+        page = ctx.pages[0] if ctx.pages else ctx.new_page()
+        page.goto(f"{BASE}/login/")
+        for _ in range(timeout_min * 30):
+            if any(c["name"] == "c_user" for c in ctx.cookies(BASE)):
+                page.goto(f"{BASE}/marketplace/")
+                page.wait_for_timeout(3000)
+                ctx.close()
+                print("ok: logged in; the profile is saved")
+                return
+            page.wait_for_timeout(2000)
+        ctx.close()
+        raise SystemExit("timed out waiting for the Facebook login")
+
+
 class Marketplace:
     def __init__(self, cookies: list[dict] | None = None):
         from playwright.sync_api import sync_playwright
@@ -181,14 +216,20 @@ class Marketplace:
             launch["executable_path"] = CHROMIUM
         if proxy := os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy"):
             launch["proxy"] = {"server": proxy}
+        ctx_opts = {"user_agent": UA, "viewport": {"width": 1280, "height": 900}, "locale": "en-US"}
+        if cookies is None and (path := profile_dir()):
+            self._browser = None
+            self._ctx = self._pw.chromium.launch_persistent_context(path, **launch, **ctx_opts)
+            if not any(c["name"] == "c_user" for c in self._ctx.cookies(BASE)):
+                self.close()
+                raise LoginRequired("The Deal Hunter browser profile isn't logged in to Facebook.")
+            return
         self._browser = self._pw.chromium.launch(**launch)
-        self._ctx = self._browser.new_context(
-            user_agent=UA, viewport={"width": 1280, "height": 900}, locale="en-US"
-        )
+        self._ctx = self._browser.new_context(**ctx_opts)
         self._ctx.add_cookies(cookies if cookies is not None else load_cookies())
 
     def close(self) -> None:
-        self._browser.close()
+        (self._browser or self._ctx).close()
         self._pw.stop()
 
     def __enter__(self):

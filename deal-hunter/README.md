@@ -57,6 +57,23 @@ environment. To revoke them, use Facebook → Settings → Security and login �
 you're logged in" → log out of that session. A secondary Facebook account is a
 reasonable choice if you'd rather not risk your main one.
 
+## Running on your own PC (current setup)
+
+The cloud routine is paused. On 2026-10-11 Facebook killed the copied-cookie session
+after the cloud run replayed it from a datacenter IP, which logged the owner out
+everywhere. The daily run now happens on the owner's Windows PC instead:
+
+- `local/run-local.ps1` runs from Task Scheduler (`ObsidianRiver-DealHunter`, 06:52).
+  It syncs this branch, scans with a browser profile that stays logged in from your
+  home connection, runs `claude -p` with `local/PROMPT.md` for RUNBOOK steps 3–5,
+  emails the digest through the Gmail API, and pushes `data/listings.json`.
+- No cookies to copy. The profile lives in `%USERPROFILE%\.claude\dealhunter\browser-profile`,
+  the send-only Gmail token in `%USERPROFILE%\.claude\dealhunter-gmail-token.json`, and
+  the run log in `%USERPROFILE%\.claude\dealhunter\runner.log`.
+- One-time setup, and the fix whenever you get a "Facebook login needed" email:
+  `powershell -ExecutionPolicy Bypass -File local\run-local.ps1 -Setup`
+- The PC must be on (or asleep with wake timers allowed) at 06:52.
+
 ## Running it by hand
 
 ```bash

@@ -98,6 +98,31 @@ def cmd_show(args, cfg, store):
     out(store.get(args.id))
 
 
+def cmd_login(args, cfg, store):
+    from .marketplace import login
+
+    login()
+
+
+def cmd_email(args, cfg, store):
+    """Send mail to notify_email via the Gmail API (local runs; the cloud run uses its connector)."""
+    from . import notify
+
+    if args.auth:
+        notify.creds(interactive=True)
+        out({"ok": True, "token": notify.TOKEN})
+        return
+    if not args.subject or not args.body_file:
+        sys.exit("email needs --subject and --body-file (or --auth)")
+    with open(args.body_file, encoding="utf-8") as f:
+        body = f.read()
+    try:
+        out({"sent": notify.send(cfg.notify_email, args.subject, body), "to": cfg.notify_email})
+    except notify.AuthRequired as e:
+        out({"error": "gmail_auth_required", "detail": str(e)})
+        sys.exit(3)
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(prog="dealhunter")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -120,6 +145,11 @@ def main(argv=None):
     sub.add_parser("mark-notified", help="record that the current digest was sent")
     sh = sub.add_parser("show")
     sh.add_argument("id")
+    sub.add_parser("login", help="log the local browser profile (DH_PROFILE_DIR) in to Facebook")
+    em = sub.add_parser("email", help="send mail to notify_email through the Gmail API")
+    em.add_argument("--subject")
+    em.add_argument("--body-file")
+    em.add_argument("--auth", action="store_true", help="authorize Gmail sending once")
     args = p.parse_args(argv)
 
     cfg, store = config.load(), Store()
