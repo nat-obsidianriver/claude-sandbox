@@ -1,5 +1,28 @@
 {
  "listings": {
+  "1004701006020375": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1004701006020375",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Brookwood, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/859071982_1873532510491490_8564974306225922507_n.jpg?stp=c9.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=t64Covg_ym8Q7kNvwFn4f4k&_nc_oc=AdrGbooU-zjNF9O-FECE7SorDu6kzElNfcNdiPvv9XiHWyPPBnJoDIHPe3xh7PalQPE&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQQU9rE9LC2U3jtJTqYfGdv-WKk-0gAkfQEgBjRxSqrEFA&oe=6AF37F3F",
+   "price": 3500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     3500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Kawasaki KLR 650 Motorcycle",
+   "url": "https://www.facebook.com/marketplace/item/1004701006020375/",
+   "year": null
+  },
   "1006779135795857": {
    "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-10-21T11:52:43+00:00",
@@ -44,6 +67,29 @@
    "status": "filtered",
    "title": "2015 Dodge Durango R/T",
    "url": "https://www.facebook.com/marketplace/item/1007497715737600/",
+   "year": 2015
+  },
+  "1008629455624817": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1008629455624817",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": 181000,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890584962_1071665829287390_7522496188167896658_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=Hu1WRJMTrK0Q7kNvwGnqTQC&_nc_oc=AdoCQFci2n90DA3MnSCUPHyLPZHve10ahQ-ueUYAkCnJpBmJxqJkpvOzzrLFWOTG-34&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQSQLHCtlilrVwknEb7WceNJRrFiLeHTxg7x8YYNHo5AhA&oe=6AF38F86",
+   "price": 6500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     6500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2015 Ford Mustang \u00b7 V6 Coupe 2D",
+   "url": "https://www.facebook.com/marketplace/item/1008629455624817/",
    "year": 2015
   },
   "1009193882193038": {
@@ -229,6 +275,29 @@
    "title": "2017 Toyota Tacoma Double Cab",
    "url": "https://www.facebook.com/marketplace/item/1026188397146520/",
    "year": 2017
+  },
+  "1026939347090001": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1026939347090001",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Vance, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/892837179_999970356503414_6852745814858886524_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=BBBUXDpkXx8Q7kNvwEviMzQ&_nc_oc=AdqiqyxJE8BSaWR1nmyYKvNHrdAC5WZmeIPnG0-hEy-2u-OJG0ylaZ9hRgYw-IDN66Q&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQT-7eFF-_v2DAO8YxtPPMiquEVm5c-JDF70bCipChrRtA&oe=6AF3AC19",
+   "price": 11500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     11500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Camper",
+   "url": "https://www.facebook.com/marketplace/item/1026939347090001/",
+   "year": null
   },
   "1029724116753207": {
    "filter_reason": "title doesn't mention Miata",
@@ -2680,6 +2749,29 @@
    "url": "https://www.facebook.com/marketplace/item/1098089726404768/",
    "year": 2026
   },
+  "1099083362932201": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1099083362932201",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/892036329_2047418079289080_8573920916659545916_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=Ch_ot073LiUQ7kNvwEAh2oW&_nc_oc=AdpIGvGnZTsKfLtxM01DkKUN850VlqZQnXEslDPj2PUqj6E0jhKHh-c4VbMqrCC-Bko&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQQ14RC1mkSfRiqpIwXmKUbn255ghmQ1o5Ph_gMuVxmjnw&oe=6AF37F2C",
+   "price": 2866,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2866
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "NEW 9 x 12 Budget Series $$",
+   "url": "https://www.facebook.com/marketplace/item/1099083362932201/",
+   "year": null
+  },
   "1099179536240203": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-20T11:52:40+00:00",
@@ -3785,6 +3877,29 @@
    "url": "https://www.facebook.com/marketplace/item/1111029968342625/",
    "year": null
   },
+  "1111213675040470": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1111213675040470",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/888585640_1062010733557967_594455450471026786_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=7YO1_nqU2OIQ7kNvwEDvG9d&_nc_oc=Adoex_eRkUZ4eATh-aOshT1XbTN_Vj5Y2Ds7-_YYXr450opmnJcO3WdKJlM_7zEiwnM&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQQcnyf9IJDXgrOjaEZJGuOtzsR0s576-_Cc2fmUltW0OA&oe=6AF3A8C9",
+   "price": 4495,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     4495
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "\ud83c\udfc3\u200d\u27a1\ufe0f CHILDREN'S PLAYHOUSES\ud83c\udfc3\u200d\u2640\ufe0f 10 x12 With Electrical!\ud83c\udfe0",
+   "url": "https://www.facebook.com/marketplace/item/1111213675040470/",
+   "year": null
+  },
   "1111660454951460": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-11T12:33:04+00:00",
@@ -4107,6 +4222,29 @@
    "url": "https://www.facebook.com/marketplace/item/1115866164523177/",
    "year": null
   },
+  "1115910564589493": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1115910564589493",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/887399841_2191498628450837_5358086663003012842_n.jpg?stp=c0.97.261.261a_dst-jpg_p261x260_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=Jues-2RmsCYQ7kNvwFrgY3g&_nc_oc=AdoB0dPYBgDZiW2WQIwWnbp8eY5ZwVmTwMxOsErRmf-J9ywLZkaklq8QEHC6Z4MlxA4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=wrKjzpSVtNQe-dnNwcAJsA&_nc_ss=7d2a8&oh=00_AQRcH1jhAmsAr7F-xy5493USyzG8hT8Ym3lbwRXFyReGYw&oe=6AF3762C",
+   "price": 2000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "15-20 f150 lift",
+   "url": "https://www.facebook.com/marketplace/item/1115910564589493/",
+   "year": null
+  },
   "1116031180919204": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-23T11:52:47+00:00",
@@ -4336,6 +4474,29 @@
    "title": "2022 Chevrolet Equinox LT",
    "url": "https://www.facebook.com/marketplace/item/1120221517062615/",
    "year": 2022
+  },
+  "1120368320916043": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1120368320916043",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:55+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 62000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/887814850_1131370652809183_741307569998383785_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=Zq_gmHth16MQ7kNvwGSWkF-&_nc_oc=Adr_Ym3iV5bvheP3heeEJ2ufLIlkwT6CpkjazzK8gcFAI7lIDvY3UsZKqY0oL1mEpco&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQRNXk8YQbtEPA2VdLRDcL88JOkua1pGdgt2RQKy3-e4tw&oe=6AF3890B",
+   "price": 20375,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     20375
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2024 Chevrolet TrailBlazer LT",
+   "url": "https://www.facebook.com/marketplace/item/1120368320916043/",
+   "year": 2024
   },
   "1120658207126795": {
    "filter_reason": "title doesn't mention Civic",
@@ -4923,10 +5084,10 @@
    "id": "1128747356213261",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-05T11:52:40+00:00",
+   "last_seen": "2026-11-06T11:52:43+00:00",
    "location": "Tuscaloosa, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/876210295_1122550797408338_2227174219807784365_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=oxb3Hb0HAHUQ7kNvwEjBRH4&_nc_oc=Adpq65SCbdm3cPfXX7W-KnRaWKIjZlyR6klV6jZ2a-41MTtxsSgbd8xUfy0deCzIiDU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=Vm8CLRMDibUX4tOsBN7PSg&_nc_ss=7d2a8&oh=00_AQTw0DK9R1R4dAtYBgIQbXwCaxe1gH9WZpwDoXSImobU6Q&oe=6AF23E98",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/876210295_1122550797408338_2227174219807784365_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=oxb3Hb0HAHUQ7kNvwEjBRH4&_nc_oc=Adpq65SCbdm3cPfXX7W-KnRaWKIjZlyR6klV6jZ2a-41MTtxsSgbd8xUfy0deCzIiDU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=FYQeCBMvUnc1hSOg7G9xPQ&_nc_ss=7d2a8&oh=00_AQSBUohFhoFPgN2Wq3XIvt2KQiJwWCh0blAu9eE-0acKGw&oe=6AF39018",
    "price": 1600,
    "price_history": [
     [
@@ -6349,6 +6510,29 @@
    "url": "https://www.facebook.com/marketplace/item/1148674360915452/",
    "year": null
   },
+  "1149539350871258": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1149539350871258",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/888132068_1517486187102358_416867524470540229_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=FH8BmCT7-WoQ7kNvwEG9PXH&_nc_oc=AdpYq-w4lz9h5I2ocIjkrib4UbFryuFT9P9QHHat3m3-TIzRcHNc8WNQyI7Ee6a9C7A&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQQnFDDptntYEmgthyuKyJ0t-a_oaFSKbGcECHIMgaz3wA&oe=6AF39F4E",
+   "price": 3000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     3000
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Toyota Tacoma",
+   "url": "https://www.facebook.com/marketplace/item/1149539350871258/",
+   "year": null
+  },
   "1150074921036626": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-20T11:52:40+00:00",
@@ -6600,6 +6784,29 @@
    "status": "filtered",
    "title": "Price 980--Rolex GMT-Master II Meteorite Dial 40mm",
    "url": "https://www.facebook.com/marketplace/item/1156904923522160/",
+   "year": null
+  },
+  "1156928887285361": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1156928887285361",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/859475082_1438517898449332_5950139154166245066_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=BHqCyqUsg64Q7kNvwFH52FV&_nc_oc=AdphWKynBDw7KKDfDB8eJmluhpW8caadNnKkoZYigmFXSDZaaVM1_vpg9UsIEPKztkU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQTaJk3Jr3QiQa3PikpyVgGipBLKPzkL1Q6kDn2QF-NF4w&oe=6AF37686",
+   "price": 5500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     5500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Skid steer with pallet forks",
+   "url": "https://www.facebook.com/marketplace/item/1156928887285361/",
    "year": null
   },
   "1157368926962056": {
@@ -7457,6 +7664,29 @@
    "title": "2017 Hyundai Elantra SE 4dr Sedan 6A (US)",
    "url": "https://www.facebook.com/marketplace/item/1343564397687782/",
    "year": 2017
+  },
+  "1344144847769741": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1344144847769741",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:55+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/886588757_2589760721530558_1188504464425396508_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=AWK4N2o5EXsQ7kNvwHhz_0s&_nc_oc=Adr1YpqLDFKzAs5wtMGC0RIAfoIQzoIthoz1lFN4H8ZIgcX_Wrb9fdATwbrxFEHY7Ic&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQSCHgyv97o99LBGZTGyuwHAEoU1C3vYu4wrtv4ciC8XBQ&oe=6AF3A14B",
+   "price": 12500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     12500
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Infiniti qx60",
+   "url": "https://www.facebook.com/marketplace/item/1344144847769741/",
+   "year": null
   },
   "1344665437629295": {
    "filter_reason": "title doesn't mention Civic",
@@ -9556,6 +9786,29 @@
    "url": "https://www.facebook.com/marketplace/item/1437751301020965/",
    "year": null
   },
+  "1438166584486532": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1438166584486532",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/888872707_1519433830288519_7910502362045367045_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=upwhHebnXsQQ7kNvwFu_keb&_nc_oc=Adrjz6J5q4BGIUf-FevzdcNcVg8MiNomSfZXHG47fOXdrYgKDZb5sU_SrgBCjXH0oTQ&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQRs7FuWUCSp9xUCMVDUckoMhNpEncsNxmKmJkOBA7V8yg&oe=6AF3767B",
+   "price": 7500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     7500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2010 highlander sport\nOne owner  \nUn due\u00f1o \ufffc\ufffc",
+   "url": "https://www.facebook.com/marketplace/item/1438166584486532/",
+   "year": 2010
+  },
   "1438424812681082": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-27T11:52:48+00:00",
@@ -9884,10 +10137,10 @@
    "id": "1442430227861132",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-05T11:52:50+00:00",
+   "last_seen": "2026-11-06T11:52:54+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 142000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/862325990_2193458268192526_1460973484428479618_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=M2p4YBk6vJUQ7kNvwF4oVBA&_nc_oc=Adq3RcRPTbWFJ5tYNs1bZS0VAybcbvyMh5sP88ZWpdhzoZlkSkSKoJVrN4CRhx59BCw&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=E7d4pPNicmNoryTNvOmDdQ&_nc_ss=7d2a8&oh=00_AQQ-KBln0bqrTu3aAI-svJIPmEk7HtQZdyrbTijcXlLvzg&oe=6AF23BB9",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/862325990_2193458268192526_1460973484428479618_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=M2p4YBk6vJUQ7kNvwF4oVBA&_nc_oc=Adq3RcRPTbWFJ5tYNs1bZS0VAybcbvyMh5sP88ZWpdhzoZlkSkSKoJVrN4CRhx59BCw&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=wrKjzpSVtNQe-dnNwcAJsA&_nc_ss=7d2a8&oh=00_AQSSJtRc2JzZMDKudExIHQHbvV1ICXDlpqBwFx2qCDrHwA&oe=6AF38D39",
    "price": 25140,
    "price_history": [
     [
@@ -10494,10 +10747,10 @@
    "id": "1462288288664356",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-05T11:52:50+00:00",
+   "last_seen": "2026-11-06T11:52:54+00:00",
    "location": "Tuscaloosa, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/859399380_2140908456787063_6889033531884161286_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=Nn2ciipYwCUQ7kNvwEai2S5&_nc_oc=AdqE4CTXbSALpFY851fW4IQGKQw8FFblTu6G1MG4ste1ihDQZw8GobBw-or9_Pg4Cgk&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=E7d4pPNicmNoryTNvOmDdQ&_nc_ss=7d2a8&oh=00_AQRbPDBxLZvqyriy9dZQ98nvLHKf-iT-0xg1c_hXdtB1ww&oe=6AF23ED4",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/859399380_2140908456787063_6889033531884161286_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=vbB8hKs2sboQ7kNvwH0Cz2C&_nc_oc=AdqYgn0RVQoeEruhzPbDvoM5VreykGSkTA7t7Mfq58Hohjeya17pAjiUzE8bVxANEE0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=wrKjzpSVtNQe-dnNwcAJsA&_nc_ss=7d2a8&oh=00_AQSZ69-saO2nO9cbI-LlzgMhTfsAGYayrbY6ac8oqcXzSA&oe=6AF39054",
    "price": 2000,
    "price_history": [
     [
@@ -10862,6 +11115,29 @@
    "url": "https://www.facebook.com/marketplace/item/1468959555151077/",
    "year": null
   },
+  "1470002112865480": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1470002112865480",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 174000,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/888585515_29051565541164606_8403480441501074820_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=8NLvQxHHnb0Q7kNvwHYgsuP&_nc_oc=AdoC9uCTkWoJOG-NeVRWPuKQdHKpUs6iJRaRf9JG57W7dKeJZ7CN769uCgbKHainy2U&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQQqKiwqzRVG9MSRfErOUvSru3P8IzXDNl5w8IanZcgj3g&oe=6AF39C4A",
+   "price": 6973,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     6973
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2013 Chevrolet Traverse LTZ",
+   "url": "https://www.facebook.com/marketplace/item/1470002112865480/",
+   "year": 2013
+  },
   "1473062631365028": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-18T11:52:43+00:00",
@@ -10976,6 +11252,29 @@
    "title": "Price 980--Rolex Cellini Moonphase, 39mm, white lacquer dial",
    "url": "https://www.facebook.com/marketplace/item/1475354231194821/",
    "year": null
+  },
+  "1475424707854315": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1475424707854315",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/891621535_1917438202552535_4113551258621424525_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=WIyi1JEtfa0Q7kNvwFT00LH&_nc_oc=Ado2sSzKJTs9zlnxu2quO25W04M39uJ7_HJiMs7cJnHPlO6d7jcpH-DuH3nHgEUZcEk&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQT5Iibft2q5eefgL8ur39b6LPc6lagX885yEyCNqc4sxQ&oe=6AF39C71",
+   "price": 13000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     13000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2013 f350 dump truck",
+   "url": "https://www.facebook.com/marketplace/item/1475424707854315/",
+   "year": 2013
   },
   "1476003654397448": {
    "filter_reason": "title doesn't mention Miata",
@@ -11167,10 +11466,10 @@
    "id": "1483247883663106",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-05T11:52:50+00:00",
+   "last_seen": "2026-11-06T11:52:54+00:00",
    "location": "Woodstock, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890550483_1776318040090771_8280983734690234124_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=M7_K5zrTaOkQ7kNvwHtPq9a&_nc_oc=Ado8bV_e9F-LVYq8BpnKeQfLn66wgBnR0FW3TeamW5QhqHniaWHig0mZyQwBLUmXqcU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=E7d4pPNicmNoryTNvOmDdQ&_nc_ss=7d2a8&oh=00_AQR_ZJNEOlkd61nMdh16PQT-NfzPllO3sGJfnnuaFXnILA&oe=6AF250D1",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890550483_1776318040090771_8280983734690234124_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=M7_K5zrTaOkQ7kNvwHtPq9a&_nc_oc=Ado8bV_e9F-LVYq8BpnKeQfLn66wgBnR0FW3TeamW5QhqHniaWHig0mZyQwBLUmXqcU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQRcAAKqEsOwY6SrKm-qtORWlOCWpzQ9zCxvDXz-MVf3cg&oe=6AF3A251",
    "price": 15000,
    "price_history": [
     [
@@ -11298,6 +11597,29 @@
    "title": "2022 Chevrolet Equinox LT",
    "url": "https://www.facebook.com/marketplace/item/1491361859799603/",
    "year": 2022
+  },
+  "1495741112485314": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1495741112485314",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 106000,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/891919034_1121920203976075_5902399504057469712_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=3YcCdFtLSZQQ7kNvwHSO9iL&_nc_oc=Adq5QQUGRgM1qGGFBreSxhIE12wY8pUWkr7vJpqCxlPf8ptqYxKaJgYgfdMwArO0_qA&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQRcDlcKqw37oBr9MQx9l1HvkFnlipkrExLKT9NRfqMrLg&oe=6AF3858F",
+   "price": 11745,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     11745
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2020 Kia Optima S",
+   "url": "https://www.facebook.com/marketplace/item/1495741112485314/",
+   "year": 2020
   },
   "1496054162582158": {
    "filter_reason": "title doesn't mention Civic",
@@ -11736,6 +12058,29 @@
    "url": "https://www.facebook.com/marketplace/item/1525463079606987/",
    "year": 2015
   },
+  "1527664102508568": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1527664102508568",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/892837522_4156928777774867_6301441307932504949_n.jpg?stp=c112.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=vy9c9BbRRZYQ7kNvwH2b0_1&_nc_oc=Adq2ADIxyDYUAl0K1dV0O6JWAT4WDOjKTAWYKCGPpUKvrwrS9XZzGN4AO1GU0WoIVP4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQSyPCH1PZz6QCcuoQVO2fQwsPfmsPfeV-4NIknI1DkFLA&oe=6AF38D34",
+   "price": 4393,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     4393
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2017 Genie GS-1930 Scissor Lift 19ft Work Ready Priced to Sell",
+   "url": "https://www.facebook.com/marketplace/item/1527664102508568/",
+   "year": 2017
+  },
   "1531475555667556": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-29T11:52:38+00:00",
@@ -11873,6 +12218,29 @@
    "title": "2019 GMC 1500 Regular Cab",
    "url": "https://www.facebook.com/marketplace/item/1552514536903292/",
    "year": 2019
+  },
+  "1557940513034913": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1557940513034913",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Moundville, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890846571_1083951584689126_8241220036597197212_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=sWY4xlAWprsQ7kNvwGSrbGk&_nc_oc=AdqpmtFOmkp8jF-b8nPlBV-t4ypXDuAAKsSMwN74nbSoSBL4w6cHPFEX5EX7cmorZTo&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQSVDSNRXCmMIEAwUfKGSQ6YBMDu5OBP4Di0wDGF9XXahw&oe=6AF3ACB5",
+   "price": 8000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     8000
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2014 Forest River Avenger",
+   "url": "https://www.facebook.com/marketplace/item/1557940513034913/",
+   "year": 2014
   },
   "1559811605855129": {
    "filter_reason": "title doesn't mention Civic",
@@ -12857,6 +13225,29 @@
    "url": "https://www.facebook.com/marketplace/item/1600567995137687/",
    "year": null
   },
+  "1600870934569076": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1600870934569076",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/893181155_2280660882790922_3837526743699726131_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=N9yHw1oWOjsQ7kNvwGnC9Qe&_nc_oc=AdpE6TRZuaFZkWHe1eQL_zVOy_yVQssoJCJDg9lAMEi3VznB4IdB63hTh-qPHImqSHg&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQR2zurrQhgU3UfqlGM8db3Ru_W-y92azMSb7FwM7IfwXA&oe=6AF39338",
+   "price": 6050,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     6050
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Pokemon collection ($8250 value)",
+   "url": "https://www.facebook.com/marketplace/item/1600870934569076/",
+   "year": null
+  },
   "1602833775222285": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-21T11:52:43+00:00",
@@ -13398,6 +13789,29 @@
    "url": "https://www.facebook.com/marketplace/item/1617526643436496/",
    "year": 1979
   },
+  "1617747979371885": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1617747979371885",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": 106000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/853710685_1142766231828267_7498196111014790084_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=PFPEZSy1JcsQ7kNvwHYia_3&_nc_oc=AdozijTXvVSi4lUicwLrDdxXU6gp6Ut3Vcsa0aamSwC7ZpiM8_hUrTAIN5VZg7-Y0I4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=Dvq_q0y3z1IurHFI4Em6lw&_nc_ss=7d2a8&oh=00_AQT2FOrXMBqMs3JILMqq7XT6KhtDeoAOtjFREqBX8Q6P_Q&oe=6AF3A252",
+   "price": 11745,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     11745
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2020 Kia Optima S",
+   "url": "https://www.facebook.com/marketplace/item/1617747979371885/",
+   "year": 2020
+  },
   "1617985706182724": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-11-04T11:52:42+00:00",
@@ -13466,6 +13880,29 @@
    "title": "2022 GMC Canyon AT4 4WD Crew Cab",
    "url": "https://www.facebook.com/marketplace/item/1620813606551862/",
    "year": 2022
+  },
+  "1621483808828333": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1621483808828333",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:55+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 59000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/890719271_2638154809966597_802761829833212048_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=lnHBSx9djykQ7kNvwHTKd6N&_nc_oc=AdrUp7L6Db8C_VekS3ISiPF4zgIgPQb7Sc9gEGPdNVxyBvBiiHyXug0zZ1enW7nJa3M&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQTvwMDQeAaqreWFVYbSdOQ11_JA7ix7n2R37u9CwqcGjA&oe=6AF38183",
+   "price": 15907,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     15907
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2018 Chevrolet Equinox LT",
+   "url": "https://www.facebook.com/marketplace/item/1621483808828333/",
+   "year": 2018
   },
   "1623934469415651": {
    "filter_reason": "title doesn't mention Civic",
@@ -13749,10 +14186,10 @@
    "id": "1629455195303690",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-05T11:52:50+00:00",
+   "last_seen": "2026-11-06T11:52:54+00:00",
    "location": "Tuscaloosa, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/885729763_1191152623240502_446268069125952606_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=VW-FjzGJhPAQ7kNvwFlPWt1&_nc_oc=Adq37_m20NSdjQF5p-8Fx1bUoVZWcRhE9_KVoDQyLLEIk4VuKDkFNUvJZJo266NCyts&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=E7d4pPNicmNoryTNvOmDdQ&_nc_ss=7d2a8&oh=00_AQQq-GMFl15AuRLF4TZxquC0cUMCujGTCCkNEzDopmDVIw&oe=6AF25A7F",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/885729763_1191152623240502_446268069125952606_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=XKwaRuGLrGoQ7kNvwG4SAe9&_nc_oc=AdojUM1TOrI86TWcA9JvNQJ42vhZ6dS0-85iwRmLfNc7hT10bnfY6vmvI6Xf96DDbUg&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQTuQxzPQvoyeM6YqWuW-GkPbTgqMOCzosOHJlbUx1FFFg&oe=6AF3ABFF",
    "price": 30000,
    "price_history": [
     [
@@ -13834,6 +14271,29 @@
    "title": "2022 Hyundai Accent SE",
    "url": "https://www.facebook.com/marketplace/item/1632214131716053/",
    "year": 2022
+  },
+  "1632732171667195": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1632732171667195",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Northport, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/853001810_1110504471387662_5718939410069153785_n.jpg?stp=c75.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=XW6BevFHpCIQ7kNvwGcuroS&_nc_oc=Ado3lSSl-sUJgBw1fmoswt52B4RWP5unuiWlEA9czSCb5ifpW5THhtL3rCiLOGCuDJU&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQQMqMwUNJ0bldnRpOMUeEIvJwxm-zrvcmNA8nsUpRZRJg&oe=6AF3A4C6",
+   "price": 4200,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     4200
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Club Car Precedent Camo Golf Cart",
+   "url": "https://www.facebook.com/marketplace/item/1632732171667195/",
+   "year": null
   },
   "1632877515240660": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -14433,6 +14893,29 @@
    "url": "https://www.facebook.com/marketplace/item/1644958907338846/",
    "year": null
   },
+  "1645102803817029": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1645102803817029",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": 111000,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890698764_1103755345966304_8529174119101912100_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=0974gZW2DHoQ7kNvwGgDk7c&_nc_oc=AdpfgxJeM2w_l43Xfl4PNPzBv7sYlwh47N7DjZfX_fqQPJk8UvNbLWP_CIVqGk4mNy8&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQTS5J8rmEgc1AnLocsaTEFz8aGvjMHHbEon4FLbtMET_w&oe=6AF39CD9",
+   "price": 31642,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     31642
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2020 Chevrolet Silverado 1500 RST",
+   "url": "https://www.facebook.com/marketplace/item/1645102803817029/",
+   "year": 2020
+  },
   "1645234957233440": {
    "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-10-25T11:52:41+00:00",
@@ -14962,6 +15445,29 @@
    "url": "https://www.facebook.com/marketplace/item/1651686529746856/",
    "year": null
   },
+  "1651767753011667": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1651767753011667",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890388439_969354869131694_1948314249890118800_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=UpHU7XrLtLwQ7kNvwFcvS_t&_nc_oc=AdqqQebIlN6h5DYzUopWcHr91MVCOlnp7g3NRtSaXSnvFCf0LB21SNojDXlgW-3Pi2I&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQQAWWUM6CykLkcK_-7iy4wF9XoQISS72XXlp1aikR3XAg&oe=6AF38436",
+   "price": 3600,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     3600
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Racing simulator",
+   "url": "https://www.facebook.com/marketplace/item/1651767753011667/",
+   "year": null
+  },
   "1651971066313628": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-14T11:52:37+00:00",
@@ -15261,6 +15767,29 @@
    "url": "https://www.facebook.com/marketplace/item/1658821795857227/",
    "year": 2021
   },
+  "1658968785772105": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1658968785772105",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/891804618_3034008830271678_627314293436318609_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=3EftwCBvwpUQ7kNvwHHD5gG&_nc_oc=AdrpKaUbNNB8mADYNBuKWkm_VVXxIC_Psr4lXA4VSEQKt9DsCy_b9OIQOm1ggLJWYAU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQRDSai3tE5BLaSajDYlVWmaHCD7mfi5TnWEzdt78VzY7w&oe=6AF37861",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     1500
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "35x12.50x18",
+   "url": "https://www.facebook.com/marketplace/item/1658968785772105/",
+   "year": null
+  },
   "1658982882444977": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-21T11:52:43+00:00",
@@ -15444,6 +15973,29 @@
    "title": "2001 Honda Rancher",
    "url": "https://www.facebook.com/marketplace/item/1661625432209951/",
    "year": 2001
+  },
+  "1662482765604787": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1662482765604787",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/885716115_1662477948882247_2487043822690998141_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=Fe8RffNDSjgQ7kNvwEtSgOx&_nc_oc=AdoeZokR301q6fkmKPv1v6NKZvzcV1EZnBd6kw5BoCHvcc7IK2MeJIU8Lj8VDBPMUVU&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQQ8XX0RbQxIZ3HZRGTDj1nzpRV8ztY6bOBtnMI-F_T1sA&oe=6AF3852B",
+   "price": 1950,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     1950
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Apple MacBook Pro 14\u201d M5 | 24GB RAM | 1TB SSD | 100% Battery",
+   "url": "https://www.facebook.com/marketplace/item/1662482765604787/",
+   "year": null
   },
   "1662543668786167": {
    "filter_reason": "title doesn't mention Civic",
@@ -15753,6 +16305,29 @@
    "url": "https://www.facebook.com/marketplace/item/1667496298363635/",
    "year": 2021
   },
+  "1667516821384860": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1667516821384860",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Northport, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/886744690_1115690471372984_2839471914322109725_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=pIxgNVuSsk4Q7kNvwHMFPk5&_nc_oc=AdriRimQ7SU2POPL82tSiNcf_L8geZnxJK2U4clTPPmUZK2Ntv7W3LrYbTyhhU7IZMg&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQRKh4uCwTJI1CY0XoFTa_lhYKo5Q8zFbH0WX5aeUFNSCQ&oe=6AF39584",
+   "price": 12000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     12000
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2013 lowes SF 194",
+   "url": "https://www.facebook.com/marketplace/item/1667516821384860/",
+   "year": 2013
+  },
   "1668726544672372": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-16T11:52:44+00:00",
@@ -15913,6 +16488,29 @@
    "title": "2024 Chevrolet Trax LT",
    "url": "https://www.facebook.com/marketplace/item/1671483754681188/",
    "year": 2024
+  },
+  "1671534911303994": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1671534911303994",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:55+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 106000,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/891512216_1057031070683416_6726751346711601531_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=SBshKLZxjTkQ7kNvwF3DbJ0&_nc_oc=AdqzvMkg93nRfPyNbToiGH2RlVLMbKBKe3SqtHRkeHuDJX2kTq-zjzgFNG9f7dCXsts&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQSH1_Dsj2QVx1fEJKfQATmfCk1vHbB-n_tmzs1pymaLwA&oe=6AF3A6E9",
+   "price": 12150,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     12150
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2020 Kia Optima S",
+   "url": "https://www.facebook.com/marketplace/item/1671534911303994/",
+   "year": 2020
   },
   "1672487454535547": {
    "filter_reason": "title doesn't mention Civic",
@@ -16120,6 +16718,29 @@
    "title": "Price 1380 Daytona Diw 40mm White CarbonNY Grey Dial N6F DD4130",
    "url": "https://www.facebook.com/marketplace/item/1677673863701273/",
    "year": null
+  },
+  "1677929520371219": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1677929520371219",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Abernant, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/891210037_28718131337886245_6001243961181851358_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=4PYCexc5HXkQ7kNvwEWQZAM&_nc_oc=AdrKRCGI9tJxo3dU5pl9i8rQiojgOrgc4a3eg9TjKJtDZUj2VUZ9R4fj_trwp8i-DCk&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=wrKjzpSVtNQe-dnNwcAJsA&_nc_ss=7d2a8&oh=00_AQR5OYFIrwq-uPLMY-Vqt6Zw8qLaeEQbaYWSm6fkL1Rpqg&oe=6AF388ED",
+   "price": 21000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     21000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2016 jeep wrangler, safari.",
+   "url": "https://www.facebook.com/marketplace/item/1677929520371219/",
+   "year": 2016
   },
   "1678257307023052": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -16420,6 +17041,29 @@
    "url": "https://www.facebook.com/marketplace/item/1693978215772040/",
    "year": null
   },
+  "1694083249127343": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1694083249127343",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Abernant, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/889986491_1021525447625576_6457348960082091868_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=P8DNFr4ZzA4Q7kNvwFet8uq&_nc_oc=AdpjyTjMmOlkwRgPamRrpbLf43v4Elwvy98rJsUAnzIEOdzMNN-cOghFexkLPtve9dk&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQQJs4ii60dxFkhKlgQWJAODx6JkeNOQlztv47yC_XCMVQ&oe=6AF39BA6",
+   "price": 5000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     5000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2024 hobicat pro angler.\n Kayak and trailer.",
+   "url": "https://www.facebook.com/marketplace/item/1694083249127343/",
+   "year": 2024
+  },
   "1694198192122269": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-11-01T11:52:39+00:00",
@@ -16604,6 +17248,29 @@
    "url": "https://www.facebook.com/marketplace/item/1702219131471818/",
    "year": 2008
   },
+  "1702695864528650": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1702695864528650",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/886807006_1172265702143576_6816546820252522517_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=xviy_Ui39rcQ7kNvwHALZzJ&_nc_oc=AdrPyoueONQGzsBgMc9GFPhq_XYEyTPD3xz0xnlYKyslVu-j3WvnbKCPcMUVfGhUy40&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQTFzR5M28Aj0rebbt7QvjiBqXsJyegDVHfqbFk5wb7XhQ&oe=6AF3797C",
+   "price": 3550,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     3550
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "35foot 1985 cree gooseneck camper",
+   "url": "https://www.facebook.com/marketplace/item/1702695864528650/",
+   "year": null
+  },
   "1703640188020240": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-30T11:52:39+00:00",
@@ -16671,6 +17338,52 @@
    "status": "filtered",
    "title": "GMC SIERRA",
    "url": "https://www.facebook.com/marketplace/item/1704942341343957/",
+   "year": null
+  },
+  "1707913124280336": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1707913124280336",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/887199296_1335991965205648_5912501993658939805_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=lyi8XFoZCikQ7kNvwFAMdSC&_nc_oc=AdruUAsXvyUjSDZomfSoxQ2_6WwQdvVttucOFGuJRIEM2UaMMQ9K6-HmJLui3Wlq2Ag&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQRBI3kIaUZhG1h1ZZwXVX4KhlQ6BPys22SvSjYrA-E6QQ&oe=6AF3892E",
+   "price": 2895,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2895
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "\ud83d\udc238x8 Chicken coops\ud83d\udc23 5% off ALL NOVEMBER!!",
+   "url": "https://www.facebook.com/marketplace/item/1707913124280336/",
+   "year": null
+  },
+  "1710846453976603": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1710846453976603",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Abernant, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/888725245_1131819105870061_9036790723173425013_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=eZqpFpF_lW0Q7kNvwHinq6A&_nc_oc=Adr3yBFrMLOOBp5cFv6-VAi_d-06pCcH37D9RiKvWjWeS6Y1vpU3Mk7XrTJxFT7okeQ&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQS7aFCklNO1EQTUAr_pumLRVx77cOtaMHMipyOHLImZOQ&oe=6AF38AC0",
+   "price": 6000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     6000
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Argo 4x4",
+   "url": "https://www.facebook.com/marketplace/item/1710846453976603/",
    "year": null
   },
   "1712521460269001": {
@@ -17766,10 +18479,10 @@
    "id": "1770236210717244",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-05T11:52:50+00:00",
+   "last_seen": "2026-11-06T11:52:54+00:00",
    "location": "Samantha, Alabama",
    "mileage": 182000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/877658707_1069021179481624_5356083566582736090_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=nlW378py6HQQ7kNvwGLkauK&_nc_oc=AdrBoFMNKCgbEtTYLsIGHVa0qkwkWS82T6Fn63RpFY_Iq2nqceQFzmmu9TBAKFWB-pM&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=E7d4pPNicmNoryTNvOmDdQ&_nc_ss=7d2a8&oh=00_AQQRJFPkez5Sg8JTQIFLMvd4iz5LFyQtQnUFlJqb3SRmPA&oe=6AF24553",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/877658707_1069021179481624_5356083566582736090_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=nlW378py6HQQ7kNvwGLkauK&_nc_oc=AdrBoFMNKCgbEtTYLsIGHVa0qkwkWS82T6Fn63RpFY_Iq2nqceQFzmmu9TBAKFWB-pM&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=wrKjzpSVtNQe-dnNwcAJsA&_nc_ss=7d2a8&oh=00_AQSwSQFGgTPkug_4TWawJVg2sRDijOv_VkAoCpxByTCkYw&oe=6AF396D3",
    "price": 5800,
    "price_history": [
     [
@@ -18219,6 +18932,29 @@
    "title": "2024 Chevrolet Trax LT",
    "url": "https://www.facebook.com/marketplace/item/1783230496125639/",
    "year": 2024
+  },
+  "1783557809596436": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1783557809596436",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:55+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890617288_2641420919653427_7317610418953299012_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=f0rb7QygOTcQ7kNvwELc5qj&_nc_oc=AdpiLWAxw4Q6iF25lfRw5L7BcjP0CSE2mcIKnuBRBxh1iuOHRhnhU4JBw6HbDUtD1EI&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQSZ5rJznYRcknj3DzNrUc5ygotWllumT95ckAuXOLoc0Q&oe=6AF3A431",
+   "price": 19000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     19000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Toyota Tundra V8 4.6L",
+   "url": "https://www.facebook.com/marketplace/item/1783557809596436/",
+   "year": null
   },
   "1784779862774511": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -19698,6 +20434,52 @@
    "url": "https://www.facebook.com/marketplace/item/1830241414653874/",
    "year": 2024
   },
+  "1832634057876298": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1832634057876298",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/888160059_2711090919294169_8696076324252483651_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=_4-1A6-9xTgQ7kNvwFf-ihH&_nc_oc=Adojec5v74fQgKwSuvUldR1pxMFjLZYa_Y8i1th6mgyl779H_YdUoQ8Agi4Y4cUgNd0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQS-5Wp-LCUu2W6XENq8tETUun73ZFG_x7_l97u4bfrFUA&oe=6AF39E4D",
+   "price": 4588,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     4588
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "\ud83c\udfe0\ud83c\udfdb\ufe0f 10 x 16 Tool Shed \ud83c\udfe0\ud83c\udfdb\ufe0f",
+   "url": "https://www.facebook.com/marketplace/item/1832634057876298/",
+   "year": null
+  },
+  "1832942794793494": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1832942794793494",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Holt, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/891918768_2136206807771579_3154427122458119806_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=J6sxhao6i3YQ7kNvwG_GoT8&_nc_oc=AdpH4qdBWFq4JDXqIGaduBRUx7NtblI14nq1X0VwWCAlE10IfcpGhEUWQKyAXmv7qGc&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQQTrXNoB-Z0P_IM8YV0MLseDPOXuRcFdOxVRBeQGc9hmQ&oe=6AF3914A",
+   "price": 3000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     3000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "20\u201d Ford King Ranch Wheels, 38\u201d Nitto Tires & 2\u201d Spacers",
+   "url": "https://www.facebook.com/marketplace/item/1832942794793494/",
+   "year": null
+  },
   "1833816280953619": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-16T11:52:44+00:00",
@@ -20176,6 +20958,29 @@
    "url": "https://www.facebook.com/marketplace/item/1853488916007236/",
    "year": 1986
   },
+  "1853924229280870": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1853924229280870",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 300,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/889746512_1381745403802057_9021971291003840084_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=eUeswiNRL94Q7kNvwElWDCW&_nc_oc=AdpTp-qSz-5uCDtgVnCRBPmFChmsLmA1TzfBAI5EL3QfYBeWtRyaEJRnAyORS4oUhUY&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQR935TZzmbEU8-i5X1Dsp3UgXOAiMb6icbkYIrsvMhBGQ&oe=6AF39BDF",
+   "price": 24961,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     24961
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2026 Chevrolet Trax LT",
+   "url": "https://www.facebook.com/marketplace/item/1853924229280870/",
+   "year": 2026
+  },
   "1854927982540794": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-18T11:52:43+00:00",
@@ -20268,6 +21073,29 @@
    "url": "https://www.facebook.com/marketplace/item/1859072318866161/",
    "year": null
   },
+  "1859613121715073": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1859613121715073",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Samantha, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/894074391_1386052953355776_5230324240367108029_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=hxDKRnCIaIEQ7kNvwGYjfMj&_nc_oc=AdoIqVqdqWdbyNGEANgtGtPcvEypqvEIM3V04bdWHkaqy9OinatzyrGaUXlH2MmXbtk&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQTZ-RB035vdRMLWnL8EPMq9-QGI6VEi3f1hHdcR2047Ow&oe=6AF38104",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     1500
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Dining table with chairs",
+   "url": "https://www.facebook.com/marketplace/item/1859613121715073/",
+   "year": null
+  },
   "1860572001736638": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-11-04T11:52:42+00:00",
@@ -20314,6 +21142,29 @@
    "url": "https://www.facebook.com/marketplace/item/1862146608100889/",
    "year": null
   },
+  "1862885774913546": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1862885774913546",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/888089897_2622618261516185_4580239463344529674_n.jpg?stp=c0.152.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=pH4UeXKgWjgQ7kNvwELjtss&_nc_oc=AdpVQHq4jj5XDVidkxikSoold05BzfnPV0sbwJp_SkKsh_tbQ4HJZeG4BKoQw7GOGSE&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQSQGMv5Yuj8spE-HXy9D_KUXkkNFnEjvXjNDL-AQhI8bQ&oe=6AF383FB",
+   "price": 7500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     7500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "4 seater gold cart",
+   "url": "https://www.facebook.com/marketplace/item/1862885774913546/",
+   "year": null
+  },
   "1863102418396802": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-25T11:52:41+00:00",
@@ -20336,6 +21187,29 @@
    "title": "2017 Ford Explorer XLT 4dr SUV",
    "url": "https://www.facebook.com/marketplace/item/1863102418396802/",
    "year": 2017
+  },
+  "1863158211343963": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1863158211343963",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/888280690_4562624170639744_9094365604683030748_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=uMqyBNPsWykQ7kNvwFgmwN7&_nc_oc=AdoTi5GQCpmhXJ6IJg-XFX9eVS7Wiiv2lHbe1iWDmvX6H2dvOPA8b72pHoQJYpx5d2g&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQRYjue41fThOc3RbirBZ0rYPbMJ-Qovry9vkoEH4iehxQ&oe=6AF38476",
+   "price": 2500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2006 Polaris Sportsman 500 HO ATV",
+   "url": "https://www.facebook.com/marketplace/item/1863158211343963/",
+   "year": 2006
   },
   "1863922381631648": {
    "filter_reason": "title doesn't mention Civic",
@@ -20865,6 +21739,29 @@
    "title": "Ford Explorer",
    "url": "https://www.facebook.com/marketplace/item/1903987527247254/",
    "year": null
+  },
+  "1904140097216413": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "1904140097216413",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": 153000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/887449585_1699384441720837_4057316855462924394_n.jpg?stp=c17.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=0xnfd2089VkQ7kNvwFhteO3&_nc_oc=Adqpe0upT83qdiPs_H54C25ao9HeWsqvgokxWGptO-JnN9uzpX4mL6algKbLImxyLvI&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQTILv1pSplAJYTuUJJ8TPiMvCfmrJ2WvtrOvO3ToYrgvg&oe=6AF39EFE",
+   "price": 6900,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     6900
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2017 Dodge Grand Caravan GT 4dr Mini Van",
+   "url": "https://www.facebook.com/marketplace/item/1904140097216413/",
+   "year": 2017
   },
   "1906253724086915": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -21515,6 +22412,29 @@
     "value": 25000
    },
    "year": 2025
+  },
+  "1991505714876746": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "1991505714876746",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890379213_1465980459047805_1721720051708989664_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=z3wNwJoheCcQ7kNvwG-HtWK&_nc_oc=AdrB7Cn33RfkCpUgstsS4cAq21OKzVkTVWgkki0C8kYVofeWD2kusglKxmvdTIl_UBk&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQT2cCM5NWZ-7Yuzq2ZASZQ7x8xdefoX0ugk5VCuppn08Q&oe=6AF3A1C1",
+   "price": 5000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     5000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Mandalorian Premium Pinball",
+   "url": "https://www.facebook.com/marketplace/item/1991505714876746/",
+   "year": null
   },
   "1991975541488607": {
    "filter_reason": "title doesn't mention Miata",
@@ -23615,6 +24535,29 @@
    "url": "https://www.facebook.com/marketplace/item/2197796774487599/",
    "year": null
   },
+  "2199352557351378": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "2199352557351378",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/887878584_1583533120125435_5609812735632062003_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=P5QECxPE6cgQ7kNvwH0iCH8&_nc_oc=Adraj-50DNhETAAD4dxvY7j64nfWd8TenHepFUCiW0rSMkh_mqCA_pUw3thjvJ-w9Fg&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQROM3KpKGJ0shDdd9Y6pcH0sMnVV2ZN67_ozxuIehmCWA&oe=6AF38F88",
+   "price": 2500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2500
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Black Leather Living Room Set",
+   "url": "https://www.facebook.com/marketplace/item/2199352557351378/",
+   "year": null
+  },
   "2201629997052094": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-11-05T11:52:40+00:00",
@@ -23805,6 +24748,52 @@
    "url": "https://www.facebook.com/marketplace/item/2211156749777582/",
    "year": null
   },
+  "2213849272845095": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "2213849272845095",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/887094238_2216886462584443_5422186552944300075_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=JGLsy6icASYQ7kNvwEbUn20&_nc_oc=AdorMgKuDHMzDr0g6JlxuUNArH7igMpSYlL547a0a8LRD7UgSmJEzLFleFkYiZpWW80&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQSpdNkeLH22eYVYYM4x6fkeRCkfxbnbW0N7l05CnVFMsg&oe=6AF383E0",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     1500
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Lowrance hds (carbon 16)",
+   "url": "https://www.facebook.com/marketplace/item/2213849272845095/",
+   "year": null
+  },
+  "2215536799371337": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "2215536799371337",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 30000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/886224754_1841300163665078_818346865552485101_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=_X_KWJ0R2pkQ7kNvwGWvAsT&_nc_oc=AdosF8cYYXgetvznHg8sJFIHuW54WC8TWKYPfXD4tRC-CcG7hvlhdvjF_CvatnV_B78&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQSsKs5MF8cF_uISgBDuYcyMe3gHpnCxQY4pZhhJgtbbOg&oe=6AF3976F",
+   "price": 19984,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     19984
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2025 Chevrolet Trax LT",
+   "url": "https://www.facebook.com/marketplace/item/2215536799371337/",
+   "year": 2025
+  },
   "2219679888971702": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-14T11:52:37+00:00",
@@ -23896,6 +24885,29 @@
    "title": "2015 Polaris rzr 900s",
    "url": "https://www.facebook.com/marketplace/item/2221480111734456/",
    "year": 2015
+  },
+  "2226335684980877": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "2226335684980877",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Holt, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/892817719_1057465657325955_3772319799739849751_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=3LFHywGqsbkQ7kNvwE54Vfm&_nc_oc=AdpVu_y8bFa-mkUg_aeqb-qbnAf2FsIEYZie4NNbHZUacUaiDTwUbFIFYQHtUvmfUk4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQSnFV63kdL3VOgiTbMz_Xstkizl95Kw7cyMxPuCqIFgJg&oe=6AF3857C",
+   "price": 6900,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     6900
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2017 Nissan Altima",
+   "url": "https://www.facebook.com/marketplace/item/2226335684980877/",
+   "year": 2017
   },
   "2226654831558524": {
    "discount": -0.193,
@@ -24063,6 +25075,29 @@
    "title": "2021 Grey wolf DJSE camper",
    "url": "https://www.facebook.com/marketplace/item/2243113259578557/",
    "year": 2021
+  },
+  "2245025902727258": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "2245025902727258",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Abernant, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/891753857_1368073185257793_7709661111605589671_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=YJ4U5SABr7MQ7kNvwE78y4Z&_nc_oc=Adp6ncDRpPDPVhGwus1coEnKF6VzOXGBJWo3xoXAXeay27BCrklp8rEKefTD0KETMUs&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQQfc-yqUq6TxnnvFeoATOOcZsRIaPDloZG926jgoKsYRQ&oe=6AF379B1",
+   "price": 2700,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2700
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Snap on toolbox with side cabinets",
+   "url": "https://www.facebook.com/marketplace/item/2245025902727258/",
+   "year": null
   },
   "2248218665741046": {
    "filter_reason": "title doesn't mention Civic",
@@ -25959,6 +26994,29 @@
    "url": "https://www.facebook.com/marketplace/item/2525375777967161/",
    "year": 2022
   },
+  "2529790647530766": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "2529790647530766",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Fosters, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/887786868_1655862709228563_1350282248715284396_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=g9bLhD6pYPcQ7kNvwGCQ4CS&_nc_oc=Adr1yiiGE13IrYkXF5GTziTCfkoqbrcUSy9ZiHlOMUJeF3iaNRrPuQYKTfYK206aAH8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQRMj0TNfY1_1kRrlfXkSoh1YGu6pr-bPpEFKCnjRi4vIA&oe=6AF39628",
+   "price": 4250,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     4250
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Jd baler",
+   "url": "https://www.facebook.com/marketplace/item/2529790647530766/",
+   "year": null
+  },
   "2533925077115899": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-15T11:52:44+00:00",
@@ -26095,6 +27153,29 @@
    "status": "filtered",
    "title": "Price 888) OMEGA Seamaster 300 Men's Watch 42mm White Dial",
    "url": "https://www.facebook.com/marketplace/item/2555752654958174/",
+   "year": null
+  },
+  "2559983481178807": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "2559983481178807",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890765551_1767755327848530_4865056096083754294_n.jpg?stp=c0.100.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=poEsGpTvAM0Q7kNvwHEHILk&_nc_oc=Adqea8hBoIlndgC_zgBoN-83NA1V-8X2V167CzyHXYXKHbehCullaWi3BA0ucgMBZCY&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQRolCMv9lzK906FMBG-co-HxE4QDImlMzBzCFv2FZcRLw&oe=6AF39292",
+   "price": 4600,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     4600
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Mercury 25 ELHPT Fourstroke Outboard",
+   "url": "https://www.facebook.com/marketplace/item/2559983481178807/",
    "year": null
   },
   "2575156109577070": {
@@ -26256,6 +27337,52 @@
    "status": "filtered",
    "title": "Shed",
    "url": "https://www.facebook.com/marketplace/item/2605915459835794/",
+   "year": null
+  },
+  "2617267895458481": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "2617267895458481",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:55+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 125000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/888033358_1702845141256395_1494285894777503473_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=S9qkAFh0F0UQ7kNvwEe_DF8&_nc_oc=Adru08xvBWToNDx29ZPVFoKow03OsuzO3zsjS-TzDeGVHDgMeU42yiwDl10NyyTtFJQ&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQRkXSNp03zbW39s6nMfug_1LkYpBHD0XQosH47MXHTfEw&oe=6AF39567",
+   "price": 20818,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     20818
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2021 Chevrolet Traverse RS",
+   "url": "https://www.facebook.com/marketplace/item/2617267895458481/",
+   "year": 2021
+  },
+  "2622562721574699": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "2622562721574699",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "North Johns, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/888724269_2112792719363216_4552377252176042173_n.jpg?stp=c0.152.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=-IVfZvOwFMgQ7kNvwE-56Az&_nc_oc=AdpgEx_ukftNw7uq4UPCMXLs0qhip-Z5T1Qk5RitCOebtu-9z9J2-dIZA7dPlxOJXJ4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQRRkGhTmWnRfnLsoAdGoBY8VIIOULo-yhE0UOFWC_cR4Q&oe=6AF3819F",
+   "price": 7500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     7500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Bass boat",
+   "url": "https://www.facebook.com/marketplace/item/2622562721574699/",
    "year": null
   },
   "2624958181286655": {
@@ -26493,6 +27620,29 @@
    "title": "2025 Chevrolet Trax LT",
    "url": "https://www.facebook.com/marketplace/item/2660031031082639/",
    "year": 2025
+  },
+  "2661187230995064": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "2661187230995064",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/890718975_948912628056273_2158965350827385782_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=PLP3zMRLV8MQ7kNvwGIs2Ti&_nc_oc=AdrsTdbUGnL8DPZWmztVGFm7uF7uoe2V5ujrQioCJFKGGc90a6EC79-8bHuSE8sJfr8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQTr9q0sPSq-oeEG_oF1z44RbBvdYuX0b446PjInx2Tx0A&oe=6AF38AD6",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     1500
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Nutcracker hand painted",
+   "url": "https://www.facebook.com/marketplace/item/2661187230995064/",
+   "year": null
   },
   "2670465470073320": {
    "filter_reason": "title doesn't mention Miata",
@@ -27264,6 +28414,29 @@
    "url": "https://www.facebook.com/marketplace/item/28724438420532250/",
    "year": null
   },
+  "28739708499064478": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "28739708499064478",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": 157000,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/888131966_1441999044045951_1529926262714945074_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=NWkZa-83SWMQ7kNvwGIsU3l&_nc_oc=Adq42g6xk3LegSnXXmzpoOMjanCsHsEjk8X_71adUrOmt7idjybMhq5e5DX3J0Lajlc&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQTWFtbbQbShHuoenFbl7Ary34mbK5llVliKVsowtOFh6w&oe=6AF37AAF",
+   "price": 4000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     4000
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2005 Mercedes-Benz 500 CL",
+   "url": "https://www.facebook.com/marketplace/item/28739708499064478/",
+   "year": 2005
+  },
   "28758238153831960": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-22T11:52:46+00:00",
@@ -27822,6 +28995,29 @@
    "url": "https://www.facebook.com/marketplace/item/29094931360131006/",
    "year": null
   },
+  "29104665479174074": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "29104665479174074",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 70000,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/893275439_1122764490722910_2690153578708010881_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=G_xg6LXC6VwQ7kNvwHn9txA&_nc_oc=Adp4QVoGrimuRLS0_uys8kapZc_0Gej7mmqV1XU8-rWL_NEvJC0JgGVEoKnZmTJEAss&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQSdWJ8kTVwrA07anxXzWrOwl9_TKhXtwiwArVnX_8JsfQ&oe=6AF38F60",
+   "price": 18694,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     18694
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2020 Chevrolet Equinox LT",
+   "url": "https://www.facebook.com/marketplace/item/29104665479174074/",
+   "year": 2020
+  },
   "29152478607717817": {
    "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-10-25T11:52:41+00:00",
@@ -28374,6 +29570,29 @@
    "url": "https://www.facebook.com/marketplace/item/2997861107278926/",
    "year": 2024
   },
+  "29988546170732936": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "29988546170732936",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/886678258_1973981146900487_6166903536450093845_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=8ZM1UQi9w3UQ7kNvwECL3mJ&_nc_oc=AdoNyQyYZA35H-MNDlkX-tYc74D7f93FtYp9kwmcHapTlNeeGqf8igbrZEOom1J5r-0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQSKFKgz4TyS7-3x5eO3fiqPObwdz7pT_z24kgYKE-ZdoQ&oe=6AF3885E",
+   "price": 2500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     2500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2004 Polaris sportsman 400",
+   "url": "https://www.facebook.com/marketplace/item/29988546170732936/",
+   "year": 2004
+  },
   "3004148599926511": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-31T11:52:40+00:00",
@@ -28488,6 +29707,29 @@
    "title": "All Aluminum 437 Chevrolet",
    "url": "https://www.facebook.com/marketplace/item/3027778294231931/",
    "year": null
+  },
+  "30464234253164716": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "30464234253164716",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/891772563_1555336773280221_3079612273975850288_n.jpg?stp=c112.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=9zb4W-qfxQ8Q7kNvwHltIMM&_nc_oc=AdrgCyQXNdrmp4ybo6ySqs_n0dyZFgduM4TiF69ChGp6TsJ09DSReRPG3jIXZYr08r8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQSY3lT_0ell4X47HHgj_bbzFxcMrYkWqh9TyX7KWjNFEw&oe=6AF3AB50",
+   "price": 11368,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     11368
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2023 Genie AWP-30S DC Push Around Vertical Mast Lift 30ft 1 Hr",
+   "url": "https://www.facebook.com/marketplace/item/30464234253164716/",
+   "year": 2023
   },
   "3047233732288975": {
    "filter_reason": "title doesn't mention Miata",
@@ -28856,6 +30098,29 @@
    "title": "2023 KLEIN QUALITY TRAILERS / USED RAWMAXX 102X40 GOOSENECK TRAILER",
    "url": "https://www.facebook.com/marketplace/item/3410589779138615/",
    "year": 2023
+  },
+  "3413283642312517": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "3413283642312517",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/890458300_1719869386379794_6449129315832618504_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=GnnaHFsD_LwQ7kNvwFpVZp8&_nc_oc=AdrW4L3E7OEqH75c-PqPheSN5l6y8jnVIjdxFShUt6RWXiGxwO5ul1rICbBwUjS_vyU&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=EBS-fx7rDvfhls1aoOWJUg&_nc_ss=7d2a8&oh=00_AQT1m4_v6P_iiOuVNrUnHRFqOQwUFjYpkDb0jYMDDOVoqw&oe=6AF38A73",
+   "price": 2000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "ONE PIECE JAPANESE OP06-WINGS OF THE CAPTAIN #118 RORONOA ZORO MANGA ALTERNATE ART",
+   "url": "https://www.facebook.com/marketplace/item/3413283642312517/",
+   "year": null
   },
   "3434145656768427": {
    "filter_reason": "title doesn't mention Miata",
@@ -30214,6 +31479,29 @@
    "url": "https://www.facebook.com/marketplace/item/4541639072720834/",
    "year": null
   },
+  "4542198879388586": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:55+00:00",
+   "id": "4542198879388586",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:55+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/891867867_1453883069447404_6917772387207308713_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=rSgpm_c1caMQ7kNvwFKYnxH&_nc_oc=Ado-uzGhCMgkT1K0W-5COiA1Br-huEIjMuOErGwHK8X-tort4onmRdlaM5Stx2Z7y4c&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yqiIG0sN8gwWDm32pViZ1w&_nc_ss=7d2a8&oh=00_AQR4n7d62GkczBxZH9XVVO62Knvf0R-Xmg6C_7WvS9lFzg&oe=6AF37ED3",
+   "price": 2000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:55+00:00",
+     2000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "15-20 f150 lift",
+   "url": "https://www.facebook.com/marketplace/item/4542198879388586/",
+   "year": null
+  },
   "4544346025896154": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-25T11:52:41+00:00",
@@ -30328,6 +31616,29 @@
    "title": "2018 Tesla Model 3 Performance AWD",
    "url": "https://www.facebook.com/marketplace/item/4576986472579211/",
    "year": 2018
+  },
+  "4580013045585089": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "4580013045585089",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Fosters, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/887750888_977282438785297_4875711629265119571_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=b1clpsqK11wQ7kNvwHrsoHj&_nc_oc=Adq5MtbQq4wtNhco6jpOLPHC0Z9ciUTmw4Yl0wBu9Ta0tWju0ajc8jIqk6Ic95QaGmM&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQRNwWkaPdg2oM4g1636NgIhKnlQF6ow-8APsQCNojOJzg&oe=6AF381F8",
+   "price": 3500,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     3500
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "2010 gmc Acadia",
+   "url": "https://www.facebook.com/marketplace/item/4580013045585089/",
+   "year": 2010
   },
   "4588061258130331": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -30581,6 +31892,29 @@
    "title": "2026 Honda Civic Hybrid \ud83d\udd25",
    "url": "https://www.facebook.com/marketplace/item/4662340640709751/",
    "year": 2026
+  },
+  "4675176469465370": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "4675176469465370",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/890379243_4498899890351251_7517419642687691669_n.jpg?stp=c0.42.261.261a_dst-jpg_p261x260_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=Nummn-nL-WgQ7kNvwHn1hwW&_nc_oc=AdqTWHZ9Rf49iCtFYywOYxVeunwaFgQZgCqwSlRNEe2sK15ipnr7MWlF3QKM5HfyK4Q&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQTFlwreuZteySy57ntwf_iRmjUc1o6hF9sqq94ausdWbw&oe=6AF38B46",
+   "price": 2850,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2850
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "IN HAND Apple iPhone Duo Unlocked 512GB Night Sky/Navy/Black",
+   "url": "https://www.facebook.com/marketplace/item/4675176469465370/",
+   "year": null
   },
   "4707583176191544": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -30949,6 +32283,29 @@
    "title": "2021 GMC Sierra 1500 SLT",
    "url": "https://www.facebook.com/marketplace/item/882665198197444/",
    "year": 2021
+  },
+  "887734441027501": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:43+00:00",
+   "id": "887734441027501",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Northport, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890872172_1113217148267092_888456067260800288_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=IMCxDZB69yoQ7kNvwGKMjVP&_nc_oc=AdoirussSvGzeew5f-8j6Wl334hI0aqqO_iJdBbpLqN62e0DQE7lwjC5g-P30Nm-DU4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQS3-TIi42q28FXB6DjA0wIjw1AhyOAfpbf6letAo1b6xQ&oe=6AF38036",
+   "price": 3100,
+   "price_history": [
+    [
+     "2026-11-06T11:52:43+00:00",
+     3100
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Talaria xxx 2024",
+   "url": "https://www.facebook.com/marketplace/item/887734441027501/",
+   "year": null
   },
   "920704244309001": {
    "filter_reason": "title doesn't mention Miata",
@@ -31801,6 +33158,29 @@
    "url": "https://www.facebook.com/marketplace/item/986320437209368/",
    "year": 2018
   },
+  "986451780624014": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "986451780624014",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:52:54+00:00",
+   "location": "Woodstock, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/888936625_2604519873343505_8212708717356901455_n.jpg?stp=c0.88.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=LjNXPQO3VUkQ7kNvwGVFgcX&_nc_oc=AdqJwImFrtNSg2qc62RemID0Zy0z06zKP6CT_CWcb97m4Bk7HwbNw7E8x4s_6eaKadE&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=61zc3ZLXIp81cs6dT9h7Bw&_nc_ss=7d2a8&oh=00_AQSngwSRBv-heUfR55xzmc6GPgysOhYn208NR9PlVxnbJA&oe=6AF3A0C7",
+   "price": 2000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     2000
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "Matco series 4s",
+   "url": "https://www.facebook.com/marketplace/item/986451780624014/",
+   "year": null
+  },
   "987899556919495": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-16T11:52:44+00:00",
@@ -31984,7 +33364,30 @@
    "title": "2026 Hyundai Santa Fe SEL",
    "url": "https://www.facebook.com/marketplace/item/996269980155861/",
    "year": 2026
+  },
+  "999583095816535": {
+   "filter_reason": "title doesn't mention Miata",
+   "first_seen": "2026-11-06T11:52:54+00:00",
+   "id": "999583095816535",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-06T11:53:16+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/888941729_4553954188188376_2824327685275817368_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=5d1EjC_WQukQ7kNvwEreyXY&_nc_oc=AdpSVyqm8tvu2Q-gWIYc2gIgNS6XP242IPtQg85xQUXpjlxAEm1r57lHuLMq2HKygNM&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ohbOG7Lo9BhkcKOvLGZEgg&_nc_ss=7d2a8&oh=00_AQSVNySJr-tejO-lbEpPeVCT1prjHCZmGrrznlOPcs_qcQ&oe=6AF3891D",
+   "price": 12000,
+   "price_history": [
+    [
+     "2026-11-06T11:52:54+00:00",
+     12000
+    ]
+   ],
+   "search": "Miata NB",
+   "status": "filtered",
+   "title": "Chevrolet Camaro rare package",
+   "url": "https://www.facebook.com/marketplace/item/999583095816535/",
+   "year": null
   }
  },
- "updated_at": "2026-11-05T11:53:09+00:00"
+ "updated_at": "2026-11-06T11:53:16+00:00"
 }
