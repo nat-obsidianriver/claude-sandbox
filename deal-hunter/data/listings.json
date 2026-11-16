@@ -1081,6 +1081,29 @@
    "url": "https://www.facebook.com/marketplace/item/1064773452774894/",
    "year": null
   },
+  "1065260073236748": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1065260073236748",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/904825415_2320454375474701_5018466302543017673_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=tKUppSn5eqEQ7kNvwHk-MB6&_nc_oc=AdrE1kISPzbS_MfxEG_CpyZjjwrMT-b7bP9jJ_2Xe3KdxBsgeHrMyoaGn8uht0uZcdo&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r2FfX7SQ-Qbv1rgUM5kCQg&_nc_ss=7d2a8&oh=00_AQTrAXr4ofhv1t_1L22LVc84VJnMAwwX897Jx8KHjtyU2Q&oe=6B00DAEC",
+   "price": 37199,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     37199
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "2025 Chevrolet Silverado 1500 Custom",
+   "url": "https://www.facebook.com/marketplace/item/1065260073236748/",
+   "year": 2025
+  },
   "1066637223042181": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-18T11:52:43+00:00",
@@ -2014,15 +2037,15 @@
    "year": 2021
   },
   "1083836328025424": {
-   "filter_reason": "title doesn't mention 4Runner",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:52:41+00:00",
    "id": "1083836328025424",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:52:51+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 103000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/906181746_1135574778844007_2763431042744482438_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=rbSrcmja0rIQ7kNvwEujAOZ&_nc_oc=AdqtoCxJfT8z4pZX5AF-ZRQ9RpQbVO5X9txuFTkXEmKdAM90vv3svUxqWbOnj403T_o&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=VR2qCOD-uH_TG4pr_FayXw&_nc_ss=7d2a8&oh=00_AQRqJeqI3c0DmT7QgvohWB421HJB93qALpa-ZGwmFA2H5w&oe=6AFF7A0A",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/906181746_1135574778844007_2763431042744482438_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=rbSrcmja0rIQ7kNvwEujAOZ&_nc_oc=AdqtoCxJfT8z4pZX5AF-ZRQ9RpQbVO5X9txuFTkXEmKdAM90vv3svUxqWbOnj403T_o&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=T-2gX31g-mcOTzA9_EB8xA&_nc_ss=7d2a8&oh=00_AQSAiK9cJQ6ncZa2Ic6NMbJvLlCsdicOFfsG7C8Bd1o8IQ&oe=6B00CB8A",
    "price": 29938,
    "price_history": [
     [
@@ -2030,7 +2053,7 @@
      29938
     ]
    ],
-   "search": "4Runner",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "2019 Chevrolet Silverado 1500 RST",
    "url": "https://www.facebook.com/marketplace/item/1083836328025424/",
@@ -4521,6 +4544,29 @@
    "url": "https://www.facebook.com/marketplace/item/1111213675040470/",
    "year": null
   },
+  "1111447341886433": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1111447341886433",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Abernant, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/905030826_3413636772177876_7881910522082592140_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=2EE75z5dsssQ7kNvwHn0CwC&_nc_oc=AdpOI9GGQ_YKRbyKxnSma3su4f2lUaDUh7NtAHJwAS2uEqy-BL8FWYcxJjaj4QXPprw&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQTRB9R0NnpgI9EKvKXbOjvajrvvXiHU5Dl4pU2OlGJxog&oe=6B00B778",
+   "price": 4200,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     4200
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "6x12 enclosed double axle trailer",
+   "url": "https://www.facebook.com/marketplace/item/1111447341886433/",
+   "year": null
+  },
   "1111660454951460": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-11T12:33:04+00:00",
@@ -4864,6 +4910,29 @@
    "status": "filtered",
    "title": "Price 980 Rolex Daytona New Full set 2025 Yellow gold Daytona with turquoise dial",
    "url": "https://www.facebook.com/marketplace/item/1115778314575317/",
+   "year": null
+  },
+  "1115844767865523": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1115844767865523",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Abernant, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/910881940_1755668936558784_36369058818090662_n.jpg?stp=c151.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=AqGjD0GJPC4Q7kNvwE1Oc9h&_nc_oc=AdrIphW9S5gcodgDOK5W1fHmSTgHmgHJwiEOgCJ4Qv95JXjHbUOEvwP9Ko6i0gbTEsU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQRJhxH8xCiJA3Jmw40k-pTVegw_Lktacbp1vPUQRQKFtQ&oe=6B00CAD9",
+   "price": 2500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2500
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Ford 302 sbf engine",
+   "url": "https://www.facebook.com/marketplace/item/1115844767865523/",
    "year": null
   },
   "1115860067961933": {
@@ -5441,6 +5510,29 @@
    "url": "https://www.facebook.com/marketplace/item/1121353750866648/",
    "year": 2019
   },
+  "1121433837172645": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1121433837172645",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 300,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/905979516_2139257636676615_580331677592279286_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=L660RX8swNAQ7kNvwEeqZ8F&_nc_oc=AdpaMC3dD_xbr0CNA9dHC8pkZ3AE2D4j07RezDrUI1hYVw-oEds6cS11XAGOiinKHEI&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQQq3fKlvqNNiDLdZvrRJou8LrdZRmklW0wfWyOgczCJow&oe=6B00A5BF",
+   "price": 23857,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     23857
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2026 Chevrolet Trax LS",
+   "url": "https://www.facebook.com/marketplace/item/1121433837172645/",
+   "year": 2026
+  },
   "1121668120339787": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-11-01T11:52:39+00:00",
@@ -5722,16 +5814,39 @@
    "url": "https://www.facebook.com/marketplace/item/1123380987202519/",
    "year": null
   },
-  "1124223797256540": {
+  "1123456477184240": {
    "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1123456477184240",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 70000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/911312888_1617051442892340_2883627214030563870_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Z4a1eF4eBw0Q7kNvwHMP8F7&_nc_oc=AdolpYwEXDdZuFLLNd1tQAkQGrEgpqm36aCqVCgMIXKpibEgikNTk48RjpnpIlKzOpo&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQRUc8OdznibInOtbs-_z_sXLKSuPJMt_KBhU4zQ9dNm-Q&oe=6B00A678",
+   "price": 18954,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     18954
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2024 Chrysler Pacifica Touring L",
+   "url": "https://www.facebook.com/marketplace/item/1123456477184240/",
+   "year": 2024
+  },
+  "1124223797256540": {
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:52:41+00:00",
    "id": "1124223797256540",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 107000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905869206_1774991723599883_2481209282126161746_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=9Btl1uOdgiIQ7kNvwHXsRqN&_nc_oc=Adp_7jgBHadqrDddIPpSf8gW1LJlESnZG9uxhprnHnN_65hT8AyBlHtv6yONEeW9ts4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQS1QH4NiVNDgfAoDFyuYJkO9jZ5gNIWEVwHJQ778WIHWA&oe=6AFF6754",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905869206_1774991723599883_2481209282126161746_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=9Btl1uOdgiIQ7kNvwHXsRqN&_nc_oc=Adp_7jgBHadqrDddIPpSf8gW1LJlESnZG9uxhprnHnN_65hT8AyBlHtv6yONEeW9ts4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQT5Ae7Z45scCgLyff8KR8dsZz2Zv3r7FQv2YjxV2kwZAQ&oe=6B00B8D4",
    "price": 17683,
    "price_history": [
     [
@@ -5739,7 +5854,7 @@
      17683
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "2020 Chevrolet Colorado Work Truck",
    "url": "https://www.facebook.com/marketplace/item/1124223797256540/",
@@ -6781,15 +6896,15 @@
    "year": 2022
   },
   "1134867009377535": {
-   "filter_reason": "title doesn't mention Civic",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:52:41+00:00",
    "id": "1134867009377535",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 70000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905521314_1452711189649986_1441555108666011358_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=XcPiPxxBwtEQ7kNvwGLThAp&_nc_oc=Adrzk7mIWJVyiUBARpq3ZR4qF9aF3CJ-8c7oXeSGECZnmbwW7IPR703qxm22wHObPp0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQQQy6R_k6wG3ZNYZiml2rY8nb6lvYrun8jHOzGh92PALQ&oe=6AFF7ACC",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905521314_1452711189649986_1441555108666011358_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=b4kRFpkmyqkQ7kNvwHcQNSh&_nc_oc=Ado00VobVbHSRwWjsgcvqyKqH3FIHqm0fA7FbEu52bBsa-DMcQQJjT-YVPtSmYsKHNA&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQS_mnAIeisHa2RHaEIMPGsknJ7faX5oHag-bRhjAbXAaQ&oe=6B00CC4C",
    "price": 18694,
    "price_history": [
     [
@@ -6797,7 +6912,7 @@
      18694
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "2020 Chevrolet Equinox LT",
    "url": "https://www.facebook.com/marketplace/item/1134867009377535/",
@@ -6918,6 +7033,29 @@
    "url": "https://www.facebook.com/marketplace/item/1136371285526309/",
    "year": 2025
   },
+  "1136571675585744": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1136571675585744",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910886653_1174427864916767_7812294638674549462_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Z0vebzzawqoQ7kNvwHOJGXa&_nc_oc=AdpxqGdKkEuwAGwKg-SW-50fp7Mvs_gh0BrDOkaIZSXx118teBuWroxDlcFgSR6nzKU&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQSFM21xa7O0aR7qpOc7N2yrGCfptJ7O_4zId29oc7DZGg&oe=6B00B684",
+   "price": 14070,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     14070
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "Local 2.3 Ton Rubber Track Excavator Tuscaloosa",
+   "url": "https://www.facebook.com/marketplace/item/1136571675585744/",
+   "year": null
+  },
   "1136665848694667": {
    "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-10-14T11:52:37+00:00",
@@ -7016,10 +7154,10 @@
    "id": "1137889418598866",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:52:51+00:00",
+   "last_seen": "2026-11-16T11:52:51+00:00",
    "location": "Brookwood, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905524347_2243785302866748_5102107081316517758_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=NzMh8CTqP4kQ7kNvwHKVXi-&_nc_oc=AdqYLT-QukoqgU3kMt4ATm2RosqpI_H1OSDCi8heCmHq2trSGXhmcLk5JCj_KFHGrA0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=QscOdVKTjQjvLNBmJWNekQ&_nc_ss=7d2a8&oh=00_AQS0kb6vz_ar6k4i2jlqV2QkuN2nn49QdBvp84TGPQSvoQ&oe=6AFF7FCF",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905524347_2243785302866748_5102107081316517758_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=NzMh8CTqP4kQ7kNvwHKVXi-&_nc_oc=AdqYLT-QukoqgU3kMt4ATm2RosqpI_H1OSDCi8heCmHq2trSGXhmcLk5JCj_KFHGrA0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=Fra1vh-H_u17oaCaaY6Bxw&_nc_ss=7d2a8&oh=00_AQR6MUZ5yq6H6kolKBHIOZuumMn1ik1QB0bIck2w4rkeow&oe=6B00D14F",
    "price": 1600,
    "price_history": [
     [
@@ -7315,10 +7453,10 @@
    "id": "1139914822225666",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:52:41+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Northport, Alabama",
    "mileage": 144000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/905293913_1102723802595875_4315855349782591202_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=qFvU2ePxDcAQ7kNvwHkL5s_&_nc_oc=AdoedtOqRwv77TkYxtcz1o7LMjUzgOHkZcpO8T1a49UYxLwV5qA-sqErwMoV9cTrPOg&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=X95Med_2H5Vm274xFCR4Nw&_nc_ss=7d2a8&oh=00_AQQCOrt4PE51PlmLcgNEQNzusO1raofU5Cqd-zaaoIVu2g&oe=6AFF7C80",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/905293913_1102723802595875_4315855349782591202_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=qFvU2ePxDcAQ7kNvwHkL5s_&_nc_oc=AdoedtOqRwv77TkYxtcz1o7LMjUzgOHkZcpO8T1a49UYxLwV5qA-sqErwMoV9cTrPOg&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=T-2gX31g-mcOTzA9_EB8xA&_nc_ss=7d2a8&oh=00_AQQjxE5st6JLAE-rW8-C3IVSC4_FTCCShCXVe-_OcwCNjg&oe=6B00CE00",
    "price": 24950,
    "price_history": [
     [
@@ -7856,10 +7994,10 @@
    "id": "1146625084921324",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 147000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/911179594_2009936936629221_4923027937137196176_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Z3XWCGlaaI0Q7kNvwHN1bgi&_nc_oc=Adp87he2egzpVNYFgvMHNsOmUZ2bG8miJxNtDRwGayPBfYDbbegKBpoafJWuXWK_nHw&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQRNVFvrO4n5AbKjEQTMacVQSoNFYvZLiDglffrq8K_oug&oe=6AFF56A1",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/911179594_2009936936629221_4923027937137196176_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Z3XWCGlaaI0Q7kNvwHN1bgi&_nc_oc=Adp87he2egzpVNYFgvMHNsOmUZ2bG8miJxNtDRwGayPBfYDbbegKBpoafJWuXWK_nHw&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQRF59E1STcK6AUAdaGVA1mlst4H9mYHl9x2neD8vK-8ZA&oe=6B00A821",
    "price": 24923,
    "price_history": [
     [
@@ -8148,6 +8286,29 @@
    "title": "2023 Mazda MX-5 \u00b7 Grand Touring Convertible 2D",
    "url": "https://www.facebook.com/marketplace/item/1150074921036626/",
    "year": 2023
+  },
+  "1150457827446312": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1150457827446312",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/904523563_3287520758109707_1451096391051583042_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=JXj_2lD_m7kQ7kNvwHHlgB1&_nc_oc=AdrqlazZODARGD74rFhYCJjpLsLQKAoEF99BgsSWsH_aiZs79_AIfDwm3Q1_DW-SI6k&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQTOCup0Xasvb2sWiJBWk5eIfx9Nu01_TsqYbEaSoCmQug&oe=6B00B974",
+   "price": 20101,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     20101
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "VSF 1288 Rolex Datejust 41 Gold Champagne Dial Polished Model [hidden information]",
+   "url": "https://www.facebook.com/marketplace/item/1150457827446312/",
+   "year": null
   },
   "1151432990639145": {
    "filter_reason": "title doesn't mention Miata",
@@ -8683,6 +8844,29 @@
    "url": "https://www.facebook.com/marketplace/item/1160980786602851/",
    "year": null
   },
+  "1161159223091827": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1161159223091827",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 44000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905239881_4672035599742045_3540179178544183694_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=RilsVv1zrTEQ7kNvwEsCLeL&_nc_oc=AdoJgrDr4_rLLg0cgcP-HLAPaAUaMfN7rBvRNEHEkl5fMW_4QuPYXnBL7eUTM5DlfZ0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r2FfX7SQ-Qbv1rgUM5kCQg&_nc_ss=7d2a8&oh=00_AQT9WC8xmS88tMgu2aWKaEXrSXa7Kke2ViEOqK9BCpkQRw&oe=6B00CB57",
+   "price": 34177,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     34177
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "2024 Hyundai Palisade Limited",
+   "url": "https://www.facebook.com/marketplace/item/1161159223091827/",
+   "year": 2024
+  },
   "1161516299768232": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-26T11:52:45+00:00",
@@ -8843,6 +9027,29 @@
    "title": "2022 Chevrolet Silverado 1500 LT",
    "url": "https://www.facebook.com/marketplace/item/1164888332637295/",
    "year": 2022
+  },
+  "1165930232440484": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1165930232440484",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/911425809_1495239889146872_425813624515295299_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=0PVzBXiFepsQ7kNvwHlsPLd&_nc_oc=Adru7Ri8gXFCLjwj69sMBi9FE1IdLCRnipkjQ_BVnNoKt6Lfg4ywRbKmAyOp32Q_p6U&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQR15xo7B85XQrcADWuAkY1UEqq7qxfiVqyHrpbwMdznbw&oe=6B00B851",
+   "price": 20193,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     20193
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "VSF 1288 Rolex Day-Date model 40 in rose gold with mother-of-pearl dial and round diamonds, model",
+   "url": "https://www.facebook.com/marketplace/item/1165930232440484/",
+   "year": null
   },
   "1166069449328907": {
    "filter_reason": "title doesn't mention Civic",
@@ -9149,10 +9356,10 @@
    "id": "1185752600616731",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:52:41+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 34000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/903905909_1671572674358435_7300870278734025115_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=iOp9kdbzmZoQ7kNvwH3XuNp&_nc_oc=Ado7AAiQcT9T-McSUVmBJfg8w4_RbP2_UV79ttIsaVfddk0NRX66JMGVSg9l9aKs6QA&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=X4ETYG57VvdyJDZcs6Rs1Q&_nc_ss=7d2a8&oh=00_AQRQ8wAfoha1coizG7aClB4ShcrMbe1EtClU3yj8I_d4Mw&oe=6AFF8500",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/903905909_1671572674358435_7300870278734025115_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=iOp9kdbzmZoQ7kNvwH3XuNp&_nc_oc=Ado7AAiQcT9T-McSUVmBJfg8w4_RbP2_UV79ttIsaVfddk0NRX66JMGVSg9l9aKs6QA&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQSen9pM9zMJ-Emo7R2IMdmgeXvOz--mr-T7jvSYrEeN7Q&oe=6B00D680",
    "price": 34400,
    "price_history": [
     [
@@ -9195,10 +9402,10 @@
    "id": "1194362486873389",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 27000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905752312_1664947325318288_4532590471633305694_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=sIToVSBU7JYQ7kNvwGFl8uL&_nc_oc=AdpfrjVxD2NEQaaiYcM05r4redUMnPe26hsXSRe-t74WN2U31J3M2xkqrPthhM-d9mo&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQTql3AUHxXItc2q0SIvQ_poQOXtrrfI4cEIGkNNzkBZaQ&oe=6AFF5F3C",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/905752312_1664947325318288_4532590471633305694_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=sIToVSBU7JYQ7kNvwGFl8uL&_nc_oc=AdpfrjVxD2NEQaaiYcM05r4redUMnPe26hsXSRe-t74WN2U31J3M2xkqrPthhM-d9mo&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQTY71V01NqJ6PrMth7lxkvb9MAqelX_OIz5Wwx2QYTBvA&oe=6B00B0BC",
    "price": 20982,
    "price_history": [
     [
@@ -10248,15 +10455,15 @@
    "year": null
   },
   "1360155406068583": {
-   "filter_reason": "title doesn't mention Miata",
+   "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-11-12T11:52:35+00:00",
    "id": "1360155406068583",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-12T11:53:05+00:00",
+   "last_seen": "2026-11-16T11:52:51+00:00",
    "location": "West Blocton, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/899735298_997882349407913_3770745258314944165_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=uwzdWJiq2QkQ7kNvwGsf_fx&_nc_oc=Adri7EJDupYooXgQD4BM7wLvXEAwoP6xzstSZbQiuQsm_3L35WW41rOPN1qCkMA_lYE&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=UbT7oY3dPe_UCmN7VFdWPg&_nc_ss=7d2a8&oh=00_AQRIcR02BHaeVmxmzBk631xlVbuGv4aUB3mF4OyfyMvVCA&oe=6AFB6340",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/899735298_997882349407913_3770745258314944165_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=05q8hDvX4zMQ7kNvwGa5K0n&_nc_oc=AdoaRqA_XIP3xoUfmJafsaBnWIkDpmwdoIVu0IVNGcjCTizgfOR-ZF54qBTkrF1psys&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=Fra1vh-H_u17oaCaaY6Bxw&_nc_ss=7d2a8&oh=00_AQQ-mmmu2mPNZ5gtD1RENOXPNxDdEoWzRa9fL2T5ezXUeg&oe=6B00A940",
    "price": 10000,
    "price_history": [
     [
@@ -10264,7 +10471,7 @@
      10000
     ]
    ],
-   "search": "Miata NB",
+   "search": "4Runner",
    "status": "filtered",
    "title": "2011",
    "url": "https://www.facebook.com/marketplace/item/1360155406068583/",
@@ -12966,6 +13173,29 @@
    "url": "https://www.facebook.com/marketplace/item/1445690398616700/",
    "year": 2025
   },
+  "1445761751951763": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1445761751951763",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 120000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/911532702_1775102476898347_2445129818464203715_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=rH42LD4aUM8Q7kNvwHIi-Ai&_nc_oc=AdpsNNOt7StFfyHFwB2aMNZn0nVhbfJAQEiP4j7FTGdLmwTqmjEFzAx-blh1eMu9ZXI&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r2FfX7SQ-Qbv1rgUM5kCQg&_nc_ss=7d2a8&oh=00_AQTWy90uQauXB8OkMQ0CW3SyANn-RLf-VP9eJ0KD_z05lg&oe=6B00C752",
+   "price": 36993,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     36993
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "2023 Chevrolet Suburban Z71",
+   "url": "https://www.facebook.com/marketplace/item/1445761751951763/",
+   "year": 2023
+  },
   "1445967890359541": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-11-14T11:52:37+00:00",
@@ -13340,6 +13570,29 @@
    "url": "https://www.facebook.com/marketplace/item/1450091668183184/",
    "year": null
   },
+  "1451031909816606": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1451031909816606",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Northport, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/912495179_1685321126377430_2558525218438461097_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=ncJCYgMsXjUQ7kNvwGgFuYI&_nc_oc=AdpfK9y_e9lyxQ0oZoZ0929kueOUxWIVEB3BTmaSF4crl83AgQpPxMykP2dtHuVPMUQ&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQQNWZtYGVLUKXkVI1AMuMBl49HBKsywtPRUaotHhP-lJA&oe=6B00D4AA",
+   "price": 1750,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     1750
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "3 Beds 1 Bath House",
+   "url": "https://www.facebook.com/marketplace/item/1451031909816606/",
+   "year": null
+  },
   "1451934947033657": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-17T11:52:38+00:00",
@@ -13546,6 +13799,29 @@
    "title": "2022 GMC Sierra 1500 Pro",
    "url": "https://www.facebook.com/marketplace/item/1454492426825736/",
    "year": 2022
+  },
+  "1454973399367860": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1454973399367860",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Duncanville, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/907586701_28846747095025506_3684167833977892880_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=2dO1sOJa4XgQ7kNvwHL4p5j&_nc_oc=AdqWoy3G41-ilQLhFNXf3l0VC9yW5hImGRx-4lfttY6cE-3oXZV-wlQDuvD0-dLTfQE&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQRiRKHYvg8flw_RjKEGxB63RzQq5R0JWQVRP22UlrNqHg&oe=6B00AB7B",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     1500
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "8- Piece LexingtonTraditional Cherry Finish Bedroom Set",
+   "url": "https://www.facebook.com/marketplace/item/1454973399367860/",
+   "year": null
   },
   "1456370273102220": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -14876,10 +15152,10 @@
    "id": "1483261033684132",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Tuscaloosa, Alabama",
    "mileage": 193000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/904964559_1496705719223102_8272532356071628829_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=CT424qO-xHUQ7kNvwE7QDVz&_nc_oc=AdrvsZnfuujwrFW8XKXgpQvJ-IIu3-bURK8GaYtEhP7bOQiHEwmTQYVa2_4l4D20cXc&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQSf4psCMUVpRqMiONBxXxVaJhjfyzuFTqv_VFhAPXG1Nw&oe=6AFF83CB",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/904964559_1496705719223102_8272532356071628829_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=CT424qO-xHUQ7kNvwE7QDVz&_nc_oc=AdrvsZnfuujwrFW8XKXgpQvJ-IIu3-bURK8GaYtEhP7bOQiHEwmTQYVa2_4l4D20cXc&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQSXUuPYiM-3qrnzgqouWHNZav2j2ceFnIcklsldtgpiGg&oe=6B00D54B",
    "price": 6000,
    "price_history": [
     [
@@ -15859,6 +16135,29 @@
    "url": "https://www.facebook.com/marketplace/item/1536253271593719/",
    "year": 2023
   },
+  "1537415991555912": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1537415991555912",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/904772584_1688241356230554_3536870180188568663_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=-Hd9Ach981cQ7kNvwGYcAbA&_nc_oc=AdplKx91AL3YlSJ1w_FqkNMcAyP_IV6tk2A21I6AU9_CcYqZezC-Y6oid3Of20xlb6k&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQRGITQK0xFrACE3hE9C0ed3QUhaz_0Ud7PLsFUHpl-bHA&oe=6B00BE06",
+   "price": 2800,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2800
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "1998 camper",
+   "url": "https://www.facebook.com/marketplace/item/1537415991555912/",
+   "year": 1998
+  },
   "1540174631274992": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-11-09T11:52:40+00:00",
@@ -16445,6 +16744,29 @@
    "url": "https://www.facebook.com/marketplace/item/1579492926781340/",
    "year": null
   },
+  "1581704207169649": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1581704207169649",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": 149000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/904552770_1639182784542423_8119592407583877501_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Ra_tRBBl5KgQ7kNvwHEY4Lm&_nc_oc=Ado_0ceyr8icKHoAt3SmquZu-IdxvcxFBhSsoZxHUw7a8cQU4-AeMHVR9Gf1H7mHsko&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQRdNTOMs677yVTsnlk3p53nsLsW6Rm_oyObPVbqaWVKgw&oe=6B00AD79",
+   "price": 13500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     13500
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2012 Ford F-150 Lariat 4WD",
+   "url": "https://www.facebook.com/marketplace/item/1581704207169649/",
+   "year": 2012
+  },
   "1582589316515429": {
    "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-10-25T11:52:41+00:00",
@@ -16582,6 +16904,29 @@
    "title": "2021 Ford F-150 XLT",
    "url": "https://www.facebook.com/marketplace/item/1585127483657882/",
    "year": 2021
+  },
+  "1585247130315174": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1585247130315174",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 27000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/913090232_1026040247199275_5928350808800620275_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=ANEJMeA-H4sQ7kNvwGafUjD&_nc_oc=AdqGTxeEg8j6QltcSKinrpvskwH6OqWCyPqkQJRTwE_zQaIhffCRUXIMzYofiLbJiBA&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r2FfX7SQ-Qbv1rgUM5kCQg&_nc_ss=7d2a8&oh=00_AQQvTGq6aVAjplwrlLaF33mEs21aWVm7N9iwjCMB9T-OVA&oe=6B00D340",
+   "price": 33339,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     33339
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "2023 Chevrolet Silverado 1500 Custom",
+   "url": "https://www.facebook.com/marketplace/item/1585247130315174/",
+   "year": 2023
   },
   "1585252846168305": {
    "filter_reason": "title doesn't mention Miata",
@@ -18073,6 +18418,29 @@
    "url": "https://www.facebook.com/marketplace/item/1618671862592791/",
    "year": 2026
   },
+  "1620708692703611": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1620708692703611",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/908532958_2520862645075902_7033276958077186979_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=a5swd9OUmT4Q7kNvwGaCDHM&_nc_oc=AdrzvcYcpcASv3Zrlntq6NMbFVbODrv6yYIIHsD7KR1ZogScTHVtGgjOqMAbS-30BdM&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQQUE_wfHkuPNGbAINpcMXqQYlDATU4SZEnTXjL2km9lgg&oe=6B00C6F3",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     1500
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "$1500.00 Unistellar Equinox 2 Telescope",
+   "url": "https://www.facebook.com/marketplace/item/1620708692703611/",
+   "year": null
+  },
   "1620813606551862": {
    "filter_reason": "title doesn't mention Civic",
    "first_seen": "2026-10-21T11:52:43+00:00",
@@ -19199,6 +19567,29 @@
    "title": "2016 Toyota 4Runner Limited",
    "url": "https://www.facebook.com/marketplace/item/1644414843857152/",
    "year": 2016
+  },
+  "1644817870768552": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1644817870768552",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/905324032_1468584937966800_918378201406640379_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Zxy88dVZt5oQ7kNvwE39Bhb&_nc_oc=AdoeZTLm_6A5IKlwcWOxV4j_bbpFN2IoyEQlP8polWNxX3bce7_zqbUFmG94BKPIEnk&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQRO_MjUxYY-XCd4ZK-w6G61L7Lcnq7n8iCIjWVROvOttQ&oe=6B00BC4A",
+   "price": 8514,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     8514
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Price 1280 --Audemars Piguet Royal Oak Double Balance Wheel Openworked 41mm \u2013 Fully Skeletonized",
+   "url": "https://www.facebook.com/marketplace/item/1644817870768552/",
+   "year": null
   },
   "1644958907338846": {
    "filter_reason": "title doesn't mention Tacoma",
@@ -21601,24 +21992,52 @@
    "url": "https://www.facebook.com/marketplace/item/1681634020195653/",
    "year": 2018
   },
-  "1684197099758365": {
+  "1684087109820489": {
    "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1684087109820489",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Northport, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/910296097_1473684434834111_8167650544254099404_n.jpg?stp=c0.152.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=5crXuPODrnYQ7kNvwHksRX1&_nc_oc=AdqUGIHtPitzgR7WQ_HJPaCVYN9CQqR336wtXoUc9sg59SqukcLAZHFf9szvtdOnfGU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQR5WvcUpIt3QM6HEwW-aZioY-U-01v3UJYMBmy6AX-LzQ&oe=6B00B792",
+   "price": 7500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     7500
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2010 Chevy Silverado",
+   "url": "https://www.facebook.com/marketplace/item/1684087109820489/",
+   "year": 2010
+  },
+  "1684197099758365": {
+   "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-11-09T11:52:40+00:00",
    "id": "1684197099758365",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-10T11:53:01+00:00",
+   "last_seen": "2026-11-16T11:52:51+00:00",
    "location": "Gordo, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/897349268_1599152508199581_2066104258408275049_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=ju6j5FKe9MMQ7kNvwHJ34wu&_nc_oc=Adrn_4S_-Aq5Y0LMBbtBotDdp3ykecwZqYxt2h8o9eSmC7TMCCiiIwLae3rLbkWJXio&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=mXcSxWjYgixRWwqzRsmFEQ&_nc_ss=7d2a8&oh=00_AQR6L5PBkPHy8cFKekUWiaUomeO6f_DMSBRVQ-VNizssjg&oe=6AF8CCC8",
-   "price": 1700,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/897349268_1599152508199581_2066104258408275049_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=0SOEl0zAp9kQ7kNvwGYy0CB&_nc_oc=Adq3zoQmWahHxGamJdFm1f8RtBff7S93gbMRf5ZDalNonhC4vBkJCR45XXZ17DYZWPQ&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=Fra1vh-H_u17oaCaaY6Bxw&_nc_ss=7d2a8&oh=00_AQTJ75H64AfQH3u8H3DGw_1eDD327J--0J2NdV7riuYlFA&oe=6B00B5C8",
+   "previous_price": 1700,
+   "price": 1500,
    "price_history": [
     [
      "2026-11-09T11:52:40+00:00",
      1700
+    ],
+    [
+     "2026-11-16T11:52:51+00:00",
+     1500
     ]
    ],
-   "search": "Civic Si",
+   "search": "4Runner",
    "status": "filtered",
    "title": "20s and 35s Snowflakes",
    "url": "https://www.facebook.com/marketplace/item/1684197099758365/",
@@ -21671,15 +22090,15 @@
    "year": 2013
   },
   "1685972179912264": {
-   "filter_reason": "title doesn't mention Civic",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:53:00+00:00",
    "id": "1685972179912264",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "North Johns, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910814399_2103222943891968_2016600271317717175_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=2rxHDJIPxDAQ7kNvwHNDx0N&_nc_oc=Adrg39wb5MwpRqlD9iB9AhCu0EZSGgoKYMaKDykELAvK01HGQN-NJ-pi8D4V6-_3p4Y&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=qd88NXGTWDcE3naS0aRZ-w&_nc_ss=7d2a8&oh=00_AQTQJF1CLu3a0MdMpqfTM6cz48uq5xsVtPLw_bLNX56haw&oe=6AFF5FFF",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910814399_2103222943891968_2016600271317717175_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=2rxHDJIPxDAQ7kNvwHNDx0N&_nc_oc=Adrg39wb5MwpRqlD9iB9AhCu0EZSGgoKYMaKDykELAvK01HGQN-NJ-pi8D4V6-_3p4Y&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQRmgvARBennKkDQheArWa7HnJ_ki_JfRcZc5IYGSyh-CQ&oe=6B00B17F",
    "price": 2000,
    "price_history": [
     [
@@ -21687,11 +22106,34 @@
      2000
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "24 and 37s",
    "url": "https://www.facebook.com/marketplace/item/1685972179912264/",
    "year": null
+  },
+  "1685973913084454": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1685973913084454",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Lake View, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/906950383_1165818276003455_7315630952209936204_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=WK4FVk67huwQ7kNvwHisXEE&_nc_oc=AdqNAGhIylI6Oldapd_BlfmODKLs72XS-sT00Bs2HtvAiDfA--EIKJHZcLU8mOdT6OI&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQSNSsMM0kVm1woREqzV-FDE_LlX_p34k3HMiOprilB6MQ&oe=6B00C336",
+   "price": 2350,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2350
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2005 Yamaha Bruin 350cc 4x2",
+   "url": "https://www.facebook.com/marketplace/item/1685973913084454/",
+   "year": 2005
   },
   "1686001679845897": {
    "filter_reason": "title doesn't mention Miata",
@@ -22429,6 +22871,29 @@
    "url": "https://www.facebook.com/marketplace/item/1704942341343957/",
    "year": null
   },
+  "1706740967540882": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1706740967540882",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Samantha, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/911290764_1455157809373329_5185869900126267879_n.jpg?stp=c0.151.261.261a_dst-jpg_p261x260_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=vzXPtX2QV6sQ7kNvwHSyQgb&_nc_oc=AdqIR9Q7AZ3eQF3oTNoYTpCVBs7ffx_CEeYka3T7PGCum2ft7Q3C2ozp5rahjTf1Zvk&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQRNFdce8Dn8MorMPDi7JrEeucDQKCEsf9zkJmE7oYnuKQ&oe=6B00D0D4",
+   "price": 18000,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     18000
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Mobile home for sale 3 bedroom 1 bedroom \ufffc\ufffc",
+   "url": "https://www.facebook.com/marketplace/item/1706740967540882/",
+   "year": null
+  },
   "1707913124280336": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-11-06T11:52:54+00:00",
@@ -22451,6 +22916,29 @@
    "title": "\ud83d\udc238x8 Chicken coops\ud83d\udc23 5% off ALL NOVEMBER!!",
    "url": "https://www.facebook.com/marketplace/item/1707913124280336/",
    "year": null
+  },
+  "1710403174126617": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1710403174126617",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": 105000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/906809230_1923036155346621_4814086092481585765_n.jpg?stp=c129.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=wdAclSpNu7oQ7kNvwFi9gep&_nc_oc=AdrR9O7MPztP9skMUIo6vSA4uE0nTI85T4vc6CI5cSjrHW28cULMbiVLiWE0-W3b25Q&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQSmsBV1orc_8Q8FhIB8MXmt7Pqld0tJyIQ22Kal-wcOiA&oe=6B00B138",
+   "price": 11200,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     11200
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2020 Ford Fusion SE SE 4dr Sedan",
+   "url": "https://www.facebook.com/marketplace/item/1710403174126617/",
+   "year": 2020
   },
   "1710846453976603": {
    "filter_reason": "title doesn't mention Miata",
@@ -23026,6 +23514,29 @@
    "title": "2024 Chrysler Pacifica Touring L",
    "url": "https://www.facebook.com/marketplace/item/1742292007899134/",
    "year": 2024
+  },
+  "1742776246823067": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1742776246823067",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/906060157_2290963284811064_6680347640054540299_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=o4DBagIsan8Q7kNvwFkVecO&_nc_oc=Adr5dCBNPApswBfy1gFtklNJqk4XFq9kK-rZydGnTbYs1qAOnmWQa74sSG85aF9zxCs&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQTc_VYUYZfBjVBBGQLTAb209teqHifhOLg3WdepOmO7bw&oe=6B00CB59",
+   "price": 8884,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     8884
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Price 1280 --Audemars Piguet Royal Oak Openworked 41mm \u2013 Fully Skeletonized Dial",
+   "url": "https://www.facebook.com/marketplace/item/1742776246823067/",
+   "year": null
   },
   "1742860750340421": {
    "filter_reason": "title doesn't mention Civic",
@@ -23803,10 +24314,10 @@
    "id": "1772698557134936",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 130000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/909493488_1850359532823216_4199205771295843452_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=L6RwEjAQYdEQ7kNvwHJjbnP&_nc_oc=AdpHvWLlzLzP9K7G0wW3gfGsdTRxKQTDa-MM-XKhlwRbtWrsaMbPjibpp50yXtgI7No&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQR-JBj5SQN0Yqdg42RAAlebH4pPcWHAOk-r72XfXasSmw&oe=6AFF6AD3",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/909493488_1850359532823216_4199205771295843452_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=L6RwEjAQYdEQ7kNvwHJjbnP&_nc_oc=AdpHvWLlzLzP9K7G0wW3gfGsdTRxKQTDa-MM-XKhlwRbtWrsaMbPjibpp50yXtgI7No&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQRJ16S6jC6uxYAXFOWbUGbsKAxbKR-Rf8G5tT-pVOwfcA&oe=6B00BC53",
    "price": 23102,
    "price_history": [
     [
@@ -24263,10 +24774,10 @@
    "id": "1783557809596436",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:52:41+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890617288_2641420919653427_7317610418953299012_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=i4ufW53eAAMQ7kNvwGQY9NQ&_nc_oc=AdqjMF6ge_pBFAI6xtzTbRuDkH4VYuao7SMGsNGqyOIab_YMnxg4EAeHdcrd4kVF_Ho&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=X95Med_2H5Vm274xFCR4Nw&_nc_ss=7d2a8&oh=00_AQSNQ4wcAVLj_kfwrK_vZN8wKMd3NUiKTYVAFOEnEziViQ&oe=6AFF81B1",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/890617288_2641420919653427_7317610418953299012_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=NHSPQwwzNyUQ7kNvwGZLFfd&_nc_oc=AdrwjFV8BVbmk4PpPuEfTURCUaXUH5yXqBxw8L5KymAU61obb6YHS2SopwDN66QfVHQ&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=T-2gX31g-mcOTzA9_EB8xA&_nc_ss=7d2a8&oh=00_AQSavJ1wNZtl3i8RmZv3jigjUeCn20NMFYQeYas2DGjpTw&oe=6B00D331",
    "price": 19000,
    "price_history": [
     [
@@ -24994,15 +25505,15 @@
    "year": 2022
   },
   "1797574618120187": {
-   "filter_reason": "title doesn't mention Civic",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:53:00+00:00",
    "id": "1797574618120187",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Northport, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/907519465_3797769070363230_3783800394848543542_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=bZiPJKD9GfMQ7kNvwGfgdIP&_nc_oc=AdpCzyVLZiYy_vA9xsKXVZrvZ8By3zR9-7QuFXCgqPxcYL6tDjLurbl7N1Eg5m9X3ic&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=qd88NXGTWDcE3naS0aRZ-w&_nc_ss=7d2a8&oh=00_AQR4pHidaZ0LNGowl_Y66LazvcnDSDOs3A8sTVbwohilTA&oe=6AFF8162",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/907519465_3797769070363230_3783800394848543542_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=bZiPJKD9GfMQ7kNvwGfgdIP&_nc_oc=AdpCzyVLZiYy_vA9xsKXVZrvZ8By3zR9-7QuFXCgqPxcYL6tDjLurbl7N1Eg5m9X3ic&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQT3ZqCCU7LvCy6d96G7rQ_tvUgna4kpYOMXrUpVluAQ0g&oe=6B00D2E2",
    "price": 1900,
    "price_history": [
     [
@@ -25010,7 +25521,7 @@
      1900
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "Eastman Guitar AC622CE",
    "url": "https://www.facebook.com/marketplace/item/1797574618120187/",
@@ -25244,6 +25755,29 @@
    "status": "filtered",
    "title": "5 Beds 3 Baths House",
    "url": "https://www.facebook.com/marketplace/item/1802855037729934/",
+   "year": null
+  },
+  "1804802447440443": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1804802447440443",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/910872655_1922141212484260_6777743469789559365_n.jpg?stp=c0.8.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=bcbLz9Sxnz4Q7kNvwFYSjNF&_nc_oc=AdrUsRqyjztGPbivBVGlYUy3WwIQuOzknMWn6qUMlmmRy9p8s7RsIiEmIvU6DgcXhaw&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQRB4uQfZNn0BiZF5NyIgufdc-LXs8DB9yROIsTbCZ20mg&oe=6B00A80D",
+   "price": 4500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     4500
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "USED CARS \ud83d\ude97 FOR SALE",
+   "url": "https://www.facebook.com/marketplace/item/1804802447440443/",
    "year": null
   },
   "1805532593976253": {
@@ -26166,6 +26700,29 @@
    "url": "https://www.facebook.com/marketplace/item/1830241414653874/",
    "year": 2024
   },
+  "1830821714734172": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1830821714734172",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "North Bibb, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/907281780_1502137208560250_8759437755317384726_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Uha8jfCxdH4Q7kNvwGPvBii&_nc_oc=AdrDFwbaLx1svuSfpyBSU32MpGmQ5Ozk9OJMksli1SgUq52V5bs4lsxzipDkB4etgVM&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQTvXlcK2IPbfS8j7LDqAQ4vLxKmc_6N_2dNXhevuWOn7Q&oe=6B00D790",
+   "price": 3000,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     3000
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Kitchen island \ufffc",
+   "url": "https://www.facebook.com/marketplace/item/1830821714734172/",
+   "year": null
+  },
   "1831108994867521": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-11-11T11:53:10+00:00",
@@ -26351,15 +26908,15 @@
    "year": null
   },
   "1836682547484201": {
-   "filter_reason": "title doesn't mention Civic",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:52:41+00:00",
    "id": "1836682547484201",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 200000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/912821434_894667457004239_2965311313314875574_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=LZc4sxGKenQQ7kNvwH01GT1&_nc_oc=Adruqx-V2JOyzQMxO5nnWDKinedg_XyXIoToInvfug_5CYN7Giiaq8hKhIgvrDVFE40&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQTTrMmafJ2YWJ8RBHUwkOI93m3Dwg2k5pE7lFBC66CyRg&oe=6AFF55C6",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/912821434_894667457004239_2965311313314875574_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=LZc4sxGKenQQ7kNvwH01GT1&_nc_oc=Adruqx-V2JOyzQMxO5nnWDKinedg_XyXIoToInvfug_5CYN7Giiaq8hKhIgvrDVFE40&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQSqd3K5Hgo6-1meHac586g2BuInk1cUJ4YmCpxUzpnnYQ&oe=6B00A746",
    "price": 13409,
    "price_history": [
     [
@@ -26367,7 +26924,7 @@
      13409
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "2016 Chevrolet Silverado 1500 LT",
    "url": "https://www.facebook.com/marketplace/item/1836682547484201/",
@@ -26760,15 +27317,15 @@
    "year": 2018
   },
   "1851211805910748": {
-   "filter_reason": "title doesn't mention Civic",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:53:00+00:00",
    "id": "1851211805910748",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Tuscaloosa, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910135142_1447045867579654_3288866356629980737_n.jpg?stp=c0.56.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=9HUAiZ99mV0Q7kNvwF4toHM&_nc_oc=AdrIMiWOxbXYliPh9JSFQKqKphOHchaCYXdwFOOxapPDz3ViZfU8TfGLpIdoW_guFm8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=qd88NXGTWDcE3naS0aRZ-w&_nc_ss=7d2a8&oh=00_AQRiVy1xLT0nySZx6RzyIAtID9m6t1jgRcsAGk0GccC0vQ&oe=6AFF854D",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910135142_1447045867579654_3288866356629980737_n.jpg?stp=c0.56.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=9HUAiZ99mV0Q7kNvwF4toHM&_nc_oc=AdrIMiWOxbXYliPh9JSFQKqKphOHchaCYXdwFOOxapPDz3ViZfU8TfGLpIdoW_guFm8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQShYRndZrTZsTg7f6eGuUvXRqt246ys6QLuhXLPGoPZEw&oe=6B00D6CD",
    "price": 2000,
    "price_history": [
     [
@@ -26776,7 +27333,7 @@
      2000
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "Superman Comic Books",
    "url": "https://www.facebook.com/marketplace/item/1851211805910748/",
@@ -26834,10 +27391,10 @@
    "id": "1851718722535350",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Northport, Alabama",
    "mileage": 157000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/901688789_1154571247041552_1641025713157525917_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=vdkBnZn6q7MQ7kNvwH0r_Om&_nc_oc=Adogscd-yA6kazix1N6eyLCoRn18OLu0vB6A8ZxSnKN2Na5V11AoThyZalenfgvJ86k&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=3IBFe56Os8ApusbyWwpahQ&_nc_ss=7d2a8&oh=00_AQSOCGS1Z2Zy2ezUKsby6oJOc2zfHvOCwJV3YGfVZbQ2zA&oe=6AFF890D",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/901688789_1154571247041552_1641025713157525917_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=FOXbrR6f6S0Q7kNvwEZDfxD&_nc_oc=AdqSusgxeIwBR6clfK5CD873Ftt5NThicKs_CoUltpS1LKv9op22vLP-h1w32kvm8Dg&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=owM5ty-19Lib6sqllLsIhg&_nc_ss=7d2a8&oh=00_AQSIlVD3rpZGoelHxxmbWBijLJX-a2vqSdQJxcWH6F2-BQ&oe=6B00DA8D",
    "price": 2000,
    "price_history": [
     [
@@ -27294,15 +27851,15 @@
    "year": 2007
   },
   "1867569651339588": {
-   "filter_reason": "title doesn't mention Civic",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:52:41+00:00",
    "id": "1867569651339588",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 62000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/912709596_1129081793322369_4832336554846925279_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=3Uc7E-Bm6BEQ7kNvwEudW-d&_nc_oc=AdoX9nK1w1K02sGqa965wLPjqQEIG_vc4COwnccJR1G39ttmXqcKgesHpSWJ73Opm8Q&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQRC1rl90oR-6i374gJyNBFhLDwOEfNDH7_Hl4UW-8c4mg&oe=6AFF8A43",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/912709596_1129081793322369_4832336554846925279_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=3Uc7E-Bm6BEQ7kNvwEudW-d&_nc_oc=AdoX9nK1w1K02sGqa965wLPjqQEIG_vc4COwnccJR1G39ttmXqcKgesHpSWJ73Opm8Q&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQRCdHhusXZyJKWTQkPt1BLeZtwVXVEvC2DOCesLn5CYVw&oe=6B00DBC3",
    "price": 20375,
    "price_history": [
     [
@@ -27310,11 +27867,34 @@
      20375
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "2024 Chevrolet TrailBlazer LT",
    "url": "https://www.facebook.com/marketplace/item/1867569651339588/",
    "year": 2024
+  },
+  "1867858691325580": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1867858691325580",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Samantha, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/909576436_1609979770397397_1857694405353350846_n.jpg?stp=c47.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=9AZfkXDnYVcQ7kNvwHkWFRF&_nc_oc=AdrF7rbq7ozd6SMMz-JI5KSCOohigFutnCaUEytA_OX8CVuLOS7DfzStL-Dsi5U3e_E&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQSoy0KHzESz_noi4Ax5ik8c1xBX85jotbG-Q7O21xa3KQ&oe=6B00B697",
+   "price": 3000,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     3000
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "5\u2019 x 8\u2019 Haulmark Trailer - Passport Deluxe",
+   "url": "https://www.facebook.com/marketplace/item/1867858691325580/",
+   "year": null
   },
   "1870332944152975": {
    "filter_reason": "title doesn't mention Civic",
@@ -27636,6 +28216,29 @@
    "status": "filtered",
    "title": "Rolex Day-Date 36 Yellow Gold Diamond Bezel Diamond Paved Dial 128348RBR",
    "url": "https://www.facebook.com/marketplace/item/1888688948757304/",
+   "year": null
+  },
+  "1889134108934529": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1889134108934529",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910549585_1066205266432250_4232909908767162335_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=mQkSCgShpusQ7kNvwGHvdsM&_nc_oc=Adrmyf9f3AOrKQBMB7cE-DO-kycdFlLeTYn4l0jK_9EmmUpSk3JYy_TKjhEEDkhs_B4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQSg4zYZl1jOt66DNU9LSaj2GLxWanTNF7pkNr9jHARFwQ&oe=6B00B03D",
+   "price": 8879,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     8879
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Price 1280 --Patek Philippe Perpetual Calendar Chronograph, 41mm, brown dial",
+   "url": "https://www.facebook.com/marketplace/item/1889134108934529/",
    "year": null
   },
   "1891989962160854": {
@@ -28096,6 +28699,29 @@
    "status": "filtered",
    "title": "6s n 5s",
    "url": "https://www.facebook.com/marketplace/item/1922262912104188/",
+   "year": null
+  },
+  "1923699692125780": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "1923699692125780",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/911081322_1116647694523945_9219568532397938554_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Pntu4X0-4j4Q7kNvwGNH_yu&_nc_oc=Adogs0W2wEp8Pq-0ApkfMhh-g6X7ueKitQku1wYarrVI-s6mp8rIS_t0CmjdbWicf40&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQTvF9qRoL6YL6PXG8iHtWWvObnxWQ0jw3pRJVSxxC_Wsg&oe=6B00BF3C",
+   "price": 20184,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     20184
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "VSF 1288 Rolex Cosmograph Daytona model 116518LN-0048",
+   "url": "https://www.facebook.com/marketplace/item/1923699692125780/",
    "year": null
   },
   "1925471235488178": {
@@ -29628,10 +30254,10 @@
    "id": "2047680939426237",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 85000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/907267511_1431255225377915_3349151056725386251_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=wusSBL9J7z4Q7kNvwFj-a6i&_nc_oc=Adp_EqJy8rWCQXySUO4zmQY0KxR3_Dkrt8JOxJUYBNgnR3WZrViHK4GkZWfL-l-iNhI&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQT0vSxh8lkO0fggFhb6LmcN-LEsm1uWB304uBOo0fy8PA&oe=6AFF6027",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/907267511_1431255225377915_3349151056725386251_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=wusSBL9J7z4Q7kNvwFj-a6i&_nc_oc=Adp_EqJy8rWCQXySUO4zmQY0KxR3_Dkrt8JOxJUYBNgnR3WZrViHK4GkZWfL-l-iNhI&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQSYiujF_7mL3KAJUhQdSSk0AU9_UpffH2rcf-i6yseu-Q&oe=6B00B1A7",
    "price": 17878,
    "price_history": [
     [
@@ -33113,6 +33739,29 @@
    "url": "https://www.facebook.com/marketplace/item/2303620870536555/",
    "year": null
   },
+  "2304379490423967": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "2304379490423967",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 70000,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910984923_1188968143458214_8136471174187000248_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=9X54NvdjKswQ7kNvwEkGIxE&_nc_oc=Ado9S7ZXHvBUJWd9e_PirtHn_anP1lTgi1vh6SSAaR8FlAfMqkVLhkijzd-8i72HNlc&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQS6itkLpaZbWQEfHo4_mW6j78dBY4u2n_TzyZW_UstyIA&oe=6B00BC38",
+   "price": 18694,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     18694
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2020 Chevrolet Equinox LT",
+   "url": "https://www.facebook.com/marketplace/item/2304379490423967/",
+   "year": 2020
+  },
   "2304497910364012": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-10-11T12:32:33+00:00",
@@ -33648,10 +34297,10 @@
    "id": "2339938290179671",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:52:41+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 300,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/907669156_1451847240487842_4848168255007983981_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=JkBWAMzAaFIQ7kNvwHBqDc6&_nc_oc=Adq5Z8T2mLjpOx8mn-vuew-y_4VyLxxLOP-39rD30prJak0w2DCoW1k3fGXe7OzlcsA&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=X4ETYG57VvdyJDZcs6Rs1Q&_nc_ss=7d2a8&oh=00_AQRO6A6hvRlNQjVLKB3cIfOsLHABhSjBnuu2fFAULp-5gA&oe=6AFF705D",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/907669156_1451847240487842_4848168255007983981_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=b1-BSa9276cQ7kNvwF3TU6p&_nc_oc=AdoQehpu-QdlUkj5h7A_vWit1N7L1PkKxPAIlQLcmzTUpFkYoeQRcqJQrmsyo2k85Vk&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQTyKkUWsC9jwHAwe1XDznSdn_pB0qYRh8A-sRAHbpFi1Q&oe=6B00C1DD",
    "price": 34490,
    "price_history": [
     [
@@ -33733,6 +34382,29 @@
    "title": "2001 Monterey explorer 240 sport",
    "url": "https://www.facebook.com/marketplace/item/2349558182484920/",
    "year": 2001
+  },
+  "2349934815847258": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "2349934815847258",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Northport, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/912380855_1523630849607439_3251135934033328858_n.jpg?stp=c0.152.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=XeLy0BYUy7EQ7kNvwGtYExw&_nc_oc=Adp8N7NVNmRwObIs_EW29TXLrPZYCYiHj6PHnW5Zt_8b0B4cXWl93zSfj93s9avkKP0&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQQWb4XyTQTfXkaX3vEQzoU8_0OWThBTxH9hL64F7m88uA&oe=6B00AD29",
+   "price": 2500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2500
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "InkSonic DTF printer",
+   "url": "https://www.facebook.com/marketplace/item/2349934815847258/",
+   "year": null
   },
   "2352700405570288": {
    "filter_reason": "title doesn't mention Miata",
@@ -34042,6 +34714,29 @@
    "url": "https://www.facebook.com/marketplace/item/2372841256786334/",
    "year": 2019
   },
+  "2372878420190585": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "2372878420190585",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/905985529_2340804866673218_6995864300313023659_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=9a4MGgTCMUoQ7kNvwH64FDl&_nc_oc=Adqm2I40QNBrZ-dDjui3r6bAEwwdQ7SqT424O0HB_oOryXDKKbnsFsWlVutRMGZcjDw&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQQgCPONxgzdCk0VvnZpRz-ZNwWkh9wREnRR5MF1XAIpdQ&oe=6B00AEF8",
+   "price": 2200,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2200
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Fuel Black & Blue Contra",
+   "url": "https://www.facebook.com/marketplace/item/2372878420190585/",
+   "year": null
+  },
   "2373378026742591": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-11-07T11:52:59+00:00",
@@ -34064,6 +34759,29 @@
    "title": "Price1180 Rolex Greenwich II Coke Ring M126710BLRO-0001",
    "url": "https://www.facebook.com/marketplace/item/2373378026742591/",
    "year": null
+  },
+  "2375258803220112": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "2375258803220112",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/910387903_1688110439564442_8327013430639603059_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=AdofjN5VSmIQ7kNvwHMBCQZ&_nc_oc=AdpNnWFpFQKIyEdkt0_ZxGHiLXSZ4YB6M9V8BYESJipcNlI7gjhH-Mj22HXT8xWNBRQ&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQTEY4gu-ofM2qhrYerAqt2eN4I4h99UoY4tKIxWdjRQDQ&oe=6B00C941",
+   "price": 2500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2500
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2005 Volvo s40",
+   "url": "https://www.facebook.com/marketplace/item/2375258803220112/",
+   "year": 2005
   },
   "2375419276589189": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -34155,6 +34873,29 @@
    "status": "filtered",
    "title": "\ud83c\udf31\ud83e\udeb4\ud83d\udc90 8 x 12 Greenhouses \ud83c\udf31\ud83e\udeb4\ud83d\udc90 2 colors to choose from",
    "url": "https://www.facebook.com/marketplace/item/2385215408896046/",
+   "year": null
+  },
+  "2388190348648996": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "2388190348648996",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/906064579_1184411754528956_3158768807220302784_n.jpg?stp=c0.42.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=cBnj4J28MeQQ7kNvwFz3sUn&_nc_oc=AdquPMWqjaUauOWWzYExVI394-Y07HyI4VlGOROo9yk2kigLrpZ2fZwA4ZcIy1WMbHQ&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQRBO9J03NRJeUijvkoBx15N_t_jURIz1jfo0jXXqxpvSw&oe=6B00ADA5",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     1500
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Gaming setup",
+   "url": "https://www.facebook.com/marketplace/item/2388190348648996/",
    "year": null
   },
   "2390577001712122": {
@@ -35444,6 +36185,29 @@
    "title": "2021 Chevrolet Traverse RS",
    "url": "https://www.facebook.com/marketplace/item/2617267895458481/",
    "year": 2021
+  },
+  "2619695758518370": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "2619695758518370",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Gordo, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/907920115_4405284639615013_201859983567843317_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=U5oShy_PQSIQ7kNvwEvR8pj&_nc_oc=AdpedAUXjZEHDdic54Mgt7b3yGMu1J_kHyzbOXppr7Be_9AoG2ANPd6Ehnfs8_sv8q4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQT_-2WhlReFgWh3Es8CiuZcjqB6usBThakyebIWO2VDUw&oe=6B00B84D",
+   "price": 6800,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     6800
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2007 jeep wrangler",
+   "url": "https://www.facebook.com/marketplace/item/2619695758518370/",
+   "year": 2007
   },
   "2622562721574699": {
    "filter_reason": "title doesn't mention Civic",
@@ -37498,10 +38262,10 @@
    "id": "2924087374651114",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 64000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/906131391_1187682840606125_9120231803845886724_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Y5uJOrWhWSsQ7kNvwHhGl3V&_nc_oc=Adr-favjQ_rnwfl5RMS5ZzuuEvj0EHvx1UJq7x7uodSAWMzdTQHycxq5OSA3WelQc3A&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQRZblkEl1AQkn97hXzB6FOC-3Tii02BELl8BZMj3EfPsQ&oe=6AFF748A",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/906131391_1187682840606125_9120231803845886724_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=lqZzLzXkIzkQ7kNvwH4VcC9&_nc_oc=Adp6e6dbGyYjB6R6MpRDNtYgiE9m0Wyw9jNh2u3x73-RdCGbXjaNnRNC9RmiypPh170&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQQQKXerfkcj-C_GQ8HoEz0ajQxEA2vi0GXIH8zlr077uw&oe=6B00C60A",
    "price": 22584,
    "price_history": [
     [
@@ -37631,15 +38395,15 @@
    "year": null
   },
   "2930293457337548": {
-   "filter_reason": "title doesn't mention Civic",
+   "filter_reason": "title doesn't mention Tacoma",
    "first_seen": "2026-11-15T11:53:00+00:00",
    "id": "2930293457337548",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": null,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/909694387_29081614041481171_448962951079363574_n.jpg?stp=c38.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=0a-vBMrpJ1sQ7kNvwERzd7J&_nc_oc=AdoG18vHive52PQbqGLXpbJ68pZypJhsdJW1N-OgTeonvM4aapviOuUF8fFPeHb2M1c&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=qd88NXGTWDcE3naS0aRZ-w&_nc_ss=7d2a8&oh=00_AQTO_ObRsGiVHBW0D_FcghO9AzvlJvAadcw9TbcKo1wwig&oe=6AFF6E36",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/909694387_29081614041481171_448962951079363574_n.jpg?stp=c38.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=0a-vBMrpJ1sQ7kNvwERzd7J&_nc_oc=AdoG18vHive52PQbqGLXpbJ68pZypJhsdJW1N-OgTeonvM4aapviOuUF8fFPeHb2M1c&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=2vVCgbW0F1QTbviRlKecFg&_nc_ss=7d2a8&oh=00_AQQP0NqbT8bD0L--J1JWdFVRj7HjE249k5hnuzKCe3IQ8w&oe=6B00BFB6",
    "price": 12345,
    "price_history": [
     [
@@ -37647,7 +38411,7 @@
      12345
     ]
    ],
-   "search": "Civic Si",
+   "search": "Tacoma TRD",
    "status": "filtered",
    "title": "Junk car removal",
    "url": "https://www.facebook.com/marketplace/item/2930293457337548/",
@@ -37774,10 +38538,10 @@
    "id": "29349523391399908",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 190000,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/907061356_4180603448743882_6700339077178210789_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=zlxqj-e6HaUQ7kNvwFR91Ob&_nc_oc=Adpn_X8cvabLCtPDA-hyq3C-7DbEOCluZvVoi1kkhD_hVkSHByJbMnhs-rESUVotkI4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQTzWh2lJw9UDiRGvJ5657L3mnv-MZgUauXmjRAftvBTCA&oe=6AFF6DEC",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/907061356_4180603448743882_6700339077178210789_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=zlxqj-e6HaUQ7kNvwFR91Ob&_nc_oc=Adpn_X8cvabLCtPDA-hyq3C-7DbEOCluZvVoi1kkhD_hVkSHByJbMnhs-rESUVotkI4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=owM5ty-19Lib6sqllLsIhg&_nc_ss=7d2a8&oh=00_AQQSDUgOgU1RD73F-9ug0kPzRXSsPeoecdpI8tfeP6SMzQ&oe=6B00BF6C",
    "price": 10663,
    "price_history": [
     [
@@ -38251,6 +39015,29 @@
    "url": "https://www.facebook.com/marketplace/item/3004148599926511/",
    "year": 2017
   },
+  "3004203616639146": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "3004203616639146",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:51+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/908532721_29494283500205534_20515025886520735_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=cuuOd7W5JjIQ7kNvwFPiZDp&_nc_oc=AdqHsC3Zy0UvLjKZ6rmtU8enXw5wYBCaYhIDOZwoTV0h28D9ouD0XcwAXLgFFWdByWA&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ceQ4PkI2Wmm4fcvMBQffIw&_nc_ss=7d2a8&oh=00_AQTSGPsSgt68rIymc5CV-1xWxsJEKBtBM6_O7rukif263A&oe=6B00C21D",
+   "price": 27500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     27500
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2020 Jeep Wrangler Unlimited Sport 4x4 - Lifted with Winch",
+   "url": "https://www.facebook.com/marketplace/item/3004203616639146/",
+   "year": 2020
+  },
   "3010731199290460": {
    "filter_reason": "title doesn't mention 4Runner",
    "first_seen": "2026-11-07T11:52:59+00:00",
@@ -38326,10 +39113,10 @@
    "id": "3012652545766113",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:52:41+00:00",
+   "last_seen": "2026-11-16T11:52:41+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 300,
-   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/906490050_2281135135795016_3061838323380616930_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=FZ5Oql8wARIQ7kNvwFlHYff&_nc_oc=AdpvfzJoEphcKZFNEzOXgIxJNo3PnaRnW94vgmleAjLeOvTlLlJF1aW-fniGTzghg6k&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=X4ETYG57VvdyJDZcs6Rs1Q&_nc_ss=7d2a8&oh=00_AQR7kfR1ynmeh-OlbfeLxOs4v77U8RAI1CTs1FkH0SA8cw&oe=6AFF67EA",
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/906490050_2281135135795016_3061838323380616930_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=FZ5Oql8wARIQ7kNvwFlHYff&_nc_oc=AdpvfzJoEphcKZFNEzOXgIxJNo3PnaRnW94vgmleAjLeOvTlLlJF1aW-fniGTzghg6k&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQTm0m8NmXzu9-duvPH59YnWUr7l_P739UF6Twi6NzFqeQ&oe=6B00B96A",
    "price": 36195,
    "price_history": [
     [
@@ -38664,6 +39451,29 @@
    "title": "\ud83c\udfe0\ud83c\udfdb\ufe0fNEW\ud83c\udfe0\ud83c\udfdb\ufe0f12x24 Side Lofted Barn\ud83c\udfe0\ud83c\udfdb\ufe0f",
    "url": "https://www.facebook.com/marketplace/item/3139366059787866/",
    "year": null
+  },
+  "3154845028056482": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "3154845028056482",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/910133901_1671749241632377_8589148675474079027_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=kbFeSK3juJMQ7kNvwFKWS24&_nc_oc=Adr-sOYTE4rBv8OCZ9BWyuHVyw7r32f63-x7SOH3DrqgAU0XHBf1Vpogcg5SYOHOk4E&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQTdjKAF8xO3WqWRTTNu_cngOqg7C5soiZCjawgLS1N4-Q&oe=6B00BA33",
+   "price": 6600,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     6600
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2018 Can Am Commander 800",
+   "url": "https://www.facebook.com/marketplace/item/3154845028056482/",
+   "year": 2018
   },
   "3170504316478829": {
    "filter_reason": "title doesn't mention Civic",
@@ -40051,10 +40861,10 @@
    "id": "4249747671991768",
    "is_pending": false,
    "is_sold": false,
-   "last_seen": "2026-11-15T11:53:00+00:00",
+   "last_seen": "2026-11-16T11:53:00+00:00",
    "location": "Cottondale, Alabama",
    "mileage": 142000,
-   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/907643807_2451811348688677_3398570224535000201_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=CewjiADuzHcQ7kNvwEswA0D&_nc_oc=Adpaplp-nTBNpy5lR6zLBsKclkuFsdZvEHc2y_8YjR-gm_QZwGXexP_1LNOCrhzyxOE&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=jZq_gEhsvGEDgjYhXTeiSg&_nc_ss=7d2a8&oh=00_AQTzjPiFmNDKCBCECEQHmuI6gT7NZvGmea04Hw1gwP_nNg&oe=6AFF5E04",
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/907643807_2451811348688677_3398570224535000201_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=LhgUIgpBBlYQ7kNvwG-2gtM&_nc_oc=AdoWXiX5glTQg9TPgWQNVOldpYJTDMqdPjrXhI_QoIRhql7h4C-3dkl41HX6wI7sJb0&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQTCithxbAJEkqJzI185oVW1zQBtWwvb-PR8PPNbCJS0lg&oe=6B00AF84",
    "price": 24770,
    "price_history": [
     [
@@ -40136,6 +40946,29 @@
    "title": "2020 Toyota Corolla",
    "url": "https://www.facebook.com/marketplace/item/4284793585074630/",
    "year": 2020
+  },
+  "4385473931675110": {
+   "filter_reason": "title doesn't mention 4Runner",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "4385473931675110",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:51+00:00",
+   "location": "Cottondale, Alabama",
+   "mileage": 300,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/912573736_1945273966856081_4573861202148409438_n.jpg?stp=c64.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=WAKd_xKUMzIQ7kNvwFCuKS2&_nc_oc=AdqMf-oPzXWmBJCUt47m2bwopfCeS_cofDmYQaSE0Tb2tvRKJGq3hlEGXUi5bUma4Aw&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=ceQ4PkI2Wmm4fcvMBQffIw&_nc_ss=7d2a8&oh=00_AQQAf6kQR6juMMbY6VeETvQk8he5WtWz0bJ47ccdNl13Qw&oe=6B00D591",
+   "price": 27906,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     27906
+    ]
+   ],
+   "search": "4Runner",
+   "status": "filtered",
+   "title": "2026 Chevrolet Trax 2RS",
+   "url": "https://www.facebook.com/marketplace/item/4385473931675110/",
+   "year": 2026
   },
   "4393004540949673": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -40988,6 +41821,29 @@
    "url": "https://www.facebook.com/marketplace/item/4633628953580547/",
    "year": null
   },
+  "4634271423564874": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "4634271423564874",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.84726-6/907893431_2602633726871257_6040550539780564000_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=VDuOrKNQqFsQ7kNvwEKH4bf&_nc_oc=Ado16NdfyW8uF_UxK1nEqbidVwhnpweR4W4U_BKxd5Jk8FRfmhrPc9yPA_u3InF3XkI&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQRXBaoEc-EEWDdPZusB8ukzOJAUKceSr3K-YfqEMxgjgQ&oe=6B00CFF4",
+   "price": 20543,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     20543
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "VSF 1288 Rolex Calendar Model 40mm Full Gold Mother-of-Pearl Round Diamond Dial Model 228238",
+   "url": "https://www.facebook.com/marketplace/item/4634271423564874/",
+   "year": null
+  },
   "4656461554634677": {
    "filter_reason": "title doesn't mention Miata",
    "first_seen": "2026-10-17T11:52:38+00:00",
@@ -41170,6 +42026,29 @@
    "status": "filtered",
    "title": "\ud83c\udfe0\ud83c\udfdb\ufe0f NEW !10 x 20 Tool Shed \ud83c\udfe0\ud83c\udfdb\ufe0f2 colors available\ud83c\udfe0\ud83c\udfdb\ufe0f",
    "url": "https://www.facebook.com/marketplace/item/4715371271941987/",
+   "year": null
+  },
+  "4724093767803742": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "4724093767803742",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Quinton, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/909692042_1681771323744915_1466089469458441272_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Lmma05FTHVIQ7kNvwGkE99J&_nc_oc=AdqjshA7NIf9S5I0tcjaTb1yKLhj4RVi5ssyCOEKXHWphQAJGW5SFOGNgT-Bf_8U5Ks&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQSLYh_6uabMk-odTJ9PB43jtR5pDi1sTgpMtE92GU1pLQ&oe=6B00C38D",
+   "price": 2000,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2000
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "Aluminum Boat",
+   "url": "https://www.facebook.com/marketplace/item/4724093767803742/",
    "year": null
   },
   "4725852814364637": {
@@ -41562,6 +42441,29 @@
    "title": "86 Monte Carlo ss",
    "url": "https://www.facebook.com/marketplace/item/874951872311384/",
    "year": null
+  },
+  "881728978330631": {
+   "filter_reason": "title doesn't mention Civic",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "881728978330631",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:53:00+00:00",
+   "location": "Duncanville, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/911529131_2257548331477266_6976339609512366210_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=DGxnTB4Axb4Q7kNvwH_JGeg&_nc_oc=AdpfcOUOsm9U4PNa_-eQe92xOU6YEyjDXFmfXX9aOO7a2PpLEZGK6j8v0boj4IWF6PM&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PbNgf1dtN4b1Z7ifN4T0zg&_nc_ss=7d2a8&oh=00_AQRAZFXmcOTloN8vAbQnXoP8ERMJLKyUVXlJEIrk89Hlpg&oe=6B00A6F2",
+   "price": 2900,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     2900
+    ]
+   ],
+   "search": "Civic Si",
+   "status": "filtered",
+   "title": "2014 Hyundai Sonata",
+   "url": "https://www.facebook.com/marketplace/item/881728978330631/",
+   "year": 2014
   },
   "882665198197444": {
    "filter_reason": "title doesn't mention 4Runner",
@@ -42251,6 +43153,29 @@
    "status": "filtered",
    "title": "Dozer Rental",
    "url": "https://www.facebook.com/marketplace/item/960316573540756/",
+   "year": null
+  },
+  "962362110011384": {
+   "filter_reason": "title doesn't mention Tacoma",
+   "first_seen": "2026-11-16T11:52:41+00:00",
+   "id": "962362110011384",
+   "is_pending": false,
+   "is_sold": false,
+   "last_seen": "2026-11-16T11:52:41+00:00",
+   "location": "Tuscaloosa, Alabama",
+   "mileage": null,
+   "photo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.84726-6/912405672_1146397731700991_7440768465815802420_n.jpg?stp=c0.51.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=_K_u18VdH1cQ7kNvwEzHVVQ&_nc_oc=Adr2T9mmQ_-DB_JOZt8MTPhnDnI238OET7c16qTz3xLcLTkGNeKBPyB1hYD0ArsrP8s&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=dx2MCq-1NoC2g0Mi7belUg&_nc_ss=7d2a8&oh=00_AQTUIKmfZGVg9wRJMKmG1JJQaLmNIp6ZvPSRvVl9g672eA&oe=6B00C754",
+   "price": 1500,
+   "price_history": [
+    [
+     "2026-11-16T11:52:41+00:00",
+     1500
+    ]
+   ],
+   "search": "Tacoma TRD",
+   "status": "filtered",
+   "title": "Chair",
+   "url": "https://www.facebook.com/marketplace/item/962362110011384/",
    "year": null
   },
   "962823849846530": {
@@ -43197,5 +44122,5 @@
    "year": null
   }
  },
- "updated_at": "2026-11-15T11:53:38+00:00"
+ "updated_at": "2026-11-16T11:53:11+00:00"
 }
